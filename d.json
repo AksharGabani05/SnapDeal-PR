@@ -1,28 +1,11 @@
 {
   "user": [
     {
-      "name": "Akshar",
-      "name1": "Gabani",
-      "email": "akshargabani@gmail.com",
-      "phone": "9913608443",
-      "password": "9913608443",
+      "name": "",
+      "name1": "",
+      "email": "",
+      "password": "",
       "id": 1
-    },
-    {
-      "name": "vishal",
-      "name1": "patel",
-      "email": "aksharpatel@gmail.com",
-      "phone": "926597885",
-      "password": "njgavcdfy3015",
-      "id": 2
-    },
-    {
-      "name": "vishal",
-      "name1": "ramesh",
-      "email": "akshar@gmail.com",
-      "phone": "9875241632",
-      "password": "jxzhzcbnkljk;xlcvjbmn",
-      "id": 3
     }
   ]
 }
