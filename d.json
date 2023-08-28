@@ -1,25 +1,11 @@
 {
   "user": [
     {
-      "name": "Akshar",
-      "name1": "Gabani",
-      "email": "akshargabani9425@gmail.com",
-      "password": "9913608443@#$ASD",
-      "id": 1
-    },
-    {
-      "name": "",
-      "name1": "",
-      "email": "ak@gmail.com",
-      "password": "",
-      "id": 2
-    },
-    {
       "name": "",
       "name1": "",
       "email": "",
       "password": "",
-      "id": 3
+      "id": 1
     }
   ]
 }
