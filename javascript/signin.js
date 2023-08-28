@@ -24,9 +24,9 @@ const sign = (e) => {
           body: JSON.stringify(user)
           
         })
-        alert("user sucsessfull")
       }
     })
+    
     
   }
   document.getElementById("signup").addEventListener("submit", sign)
@@ -90,4 +90,6 @@ const sign = (e) => {
       document.getElementById("name").classList.remove("text-danger")
       document.getElementById("name").classList.add("text-primary")
     }
+    
+    
   })

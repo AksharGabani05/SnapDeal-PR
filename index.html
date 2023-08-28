@@ -19,9 +19,9 @@
   <div class="container">
     <div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-md-8 col-md-offset-2">
       <div id="userform">
-        <ul class="nav nav-tabs nav-justified" role="tablist">
-          <li class="active"><a href="#signup"  role="tab" data-toggle="tab">Sign up</a></li>
-          <li><a href="#login"  role="tab" data-toggle="tab">Log in</a></li>
+        <ul class="nav nav-tabs nav-justified">
+          <li class="active"><a href="index.html">Sign up</a></li>
+          <li><a href="pages/login.html">Log in</a></li>
         </ul>
         <div class="tab-content">
           <div class="tab-pane fade active in" id="signup">
@@ -32,6 +32,7 @@
                   <div class="form-group">
                     <label>First Name<span class="req">*</span> </label>
                     <input type="text" class="form-control" id="first_name" required data-validation-required-message="Please enter your name." autocomplete="off">
+                    <div id="n_err"></div>
                     <p class="help-block text-danger"></p>
                   </div>
                 </div>
@@ -39,6 +40,7 @@
                   <div class="form-group">
                     <label> Last Name<span class="req">*</span> </label>
                     <input type="text" class="form-control" id="last_name" required data-validation-required-message="Please enter your name." autocomplete="off">
+                    <div id="n_err"></div>
                     <p class="help-block text-danger"></p>
                   </div>
                 </div>
@@ -46,6 +48,7 @@
               <div class="form-group">
                 <label> Your Email<span class="req">*</span> </label>
                 <input type="email" class="form-control" id="email" required data-validation-required-message="Please enter your email address." autocomplete="off">
+                <div id="e_err"></div>
                 <p class="help-block text-danger"></p>
               </div>
               <div class="form-group">
@@ -54,8 +57,9 @@
                 <p class="help-block text-danger"></p>
               </div>
               <div class="form-group">
-                <label> Password<span class="req">*</span> </label>
+                <label> User_password@#123 *<span class="req">*</span> </label>
                 <input type="password" class="form-control" id="password" required data-validation-required-message="Please enter your password" autocomplete="off">
+                <div id="p_err"></div>
                 <p class="help-block text-danger"></p>
               </div>
               <div class="mrgn-30-top">
@@ -65,40 +69,22 @@
               </div>
             </form>
           </div>
-          <div class="tab-pane fade in" id="login">
-            <h2 class="text-uppercase text-center"> Log in</h2>
-            <form id="login">
-              <div class="form-group">
-                <label> Your Email<span class="req">*</span> </label>
-                <input type="email1" class="form-control" id="email" required data-validation-required-message="Please enter your email address." autocomplete="off">
-                <p class="help-block text-danger"></p>
-              </div>
-              <div class="form-group">
-                <label> Password<span class="req">*</span> </label>
-                <input type="password" class="form-control" id="password1" required data-validation-required-message="Please enter your password" autocomplete="off">
-                <p class="help-block text-danger"></p>
-              </div>
-              <div class="mrgn-30-top">
-                <button type="submit" id="submit1" class="btn btn-larger btn-block"/>
-                Log in
-                </button>
-              </div>
-            </form>
-          </div>
+          
         </div>
       </div>
     </div>
   </div>
   <!-- /.container --> 
 </div>
+<script src="javascript/signin.js"></script>
 <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 </body>
 <!-- partial -->
-  <script src="javascript/signin.js"></script>
-  <script src="javascript/login.js"></script>
-  <!-- <script>
+ 
+  
+  <script>
     $('#form').find('input, textarea').on('keyup blur focus', function (e) {
   
   var $this = $(this),
@@ -128,21 +114,7 @@
 
 });
 
-$('.tab a').on('click', function (e) {
-  
-  e.preventDefault();
-  
-  $(this).parent().addClass('active');
-  $(this).parent().siblings().removeClass('active');
-  
-  target = $(this).attr('href');
-
-  $('.tab-content > div').not(target).hide();
-  
-  $(target).fadeIn(800);
-  
-});
-  </script> -->
+  </script>
 
 </body>
 </html>
