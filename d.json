@@ -1,60 +1,25 @@
 {
   "user": [
     {
-      "name": "akshar",
-      "name1": "gabani",
-      "email": "ak@gmail.com",
-      "phone": "9913608443",
-      "password": "9913@#AKgabani",
+      "name": "Akshar",
+      "name1": "Gabani",
+      "email": "akshargabani9425@gmail.com",
+      "password": "9913608443@#$ASD",
       "id": 1
     },
     {
-      "name": "Akshar",
-      "name1": "SANJay",
-      "email": "as@gmail.com",
-      "phone": "9913608443",
-      "password": "99789@#ASgabani",
+      "name": "",
+      "name1": "",
+      "email": "ak@gmail.com",
+      "password": "",
       "id": 2
     },
     {
-      "name": "Akshar",
-      "name1": "Sanajay",
-      "email": "as@gmaiil.com",
-      "phone": "9913608443",
-      "password": "9978@#ASgabani",
+      "name": "",
+      "name1": "",
+      "email": "",
+      "password": "",
       "id": 3
-    },
-    {
-      "name": "akshar",
-      "name1": "gabani",
-      "email": "akshargabani@gmail.com",
-      "phone": "9265947002",
-      "password": "9913@#AKgabani",
-      "id": 4
-    },
-    {
-      "name": "hdfg",
-      "name1": "sdfbgh",
-      "email": "sdfghjg@gmail.com",
-      "phone": "21945619821",
-      "password": "6514864641+dfbzfdg4d9",
-      "id": 5
-    },
-    {
-      "name": "saafdgfsdfg",
-      "name1": "fdghj",
-      "email": "sdfghj@gmail.com",
-      "phone": "166461",
-      "password": "86",
-      "id": 6
-    },
-    {
-      "name": "ffghjk",
-      "name1": "sdfghj",
-      "email": "dfsghj@gmail.com",
-      "phone": "146554",
-      "password": "541",
-      "id": 7
     }
   ]
 }

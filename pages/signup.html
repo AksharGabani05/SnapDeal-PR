@@ -75,7 +75,23 @@
                 <div class="card bg-glass">
                   <div class="card-body px-4 py-5 px-md-5">
                     <form>
-                    
+                      <!-- 2 column grid layout with text inputs for the first and last names -->
+                      <div class="row">
+                        <div class="col-md-6 mb-4">
+                          <div class="form-outline">
+                            <input type="text" id="first_name" class="form-control" />
+                            <div id="n_err"></div>
+                            <label class="form-label" for="form3Example1">First name</label>
+                          </div>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                          <div class="form-outline">
+                            <input type="text" id="last_name" class="form-control" />
+                            <label class="form-label" for="form3Example2">Last name</label>
+                          </div>
+                        </div>
+                      </div>
+        
                       <!-- Email input -->
                       <div class="form-outline mb-4">
                         <input type="email" id="email" class="form-control" />
@@ -100,10 +116,10 @@
         
                       <!-- Submit button -->
                       <button type="submit" class="btn btn-secondary btn-block mb-4" id="submit">
-                        Login
+                        Sign up
                       </button>
-                      <p class="mb-5 pb-lg-2" style="color: #393f81;">Don't have an account? <a href="signup.html"
-                          style="color: #d71c4b;">Create New Account?</a></p>
+                      <p class="mb-5 pb-lg-2" style="color: #393f81;">Don't have an account? <a href="login.html"
+                          style="color: #d71c4b;">Already account?</a></p>
         
                       <!-- Register buttons -->
                       <div class="text-center">
@@ -135,5 +151,5 @@
   <!-- Section: Design Block -->
   </form>
 </body>
-<script src="../javascript/login.js"></script>
+<script src="../javascript/signin.js"></script>
 </html>
