@@ -21,5 +21,202 @@
       "password": "98547@#$ASDF",
       "id": 3
     }
+  ],
+  "womens":[
+    {
+      "id": 1,
+      "brand": "Uniquesky",
+      "title": "Satrani Women's Printed Poly Silk Saree with Unstitched Blouse Piece",
+      "price": "Rs. 245",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/7143H+2QTgL._UY879_.jpg",
+      "rating": {
+      "rate": "3.9 Rating",
+      "review": "192 Review"
+      }
+    },
+    {
+      "id": 2,
+      "brand": "Uniquesky",
+      "title": "Women's Kanjivaram Soft Silk Saree With Blouse Piece",
+      "price": "Rs. 949",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/712r6exQc+L._UX569_.jpg",
+      "rating": {
+      "rate": "4.9 Rating",
+      "review": "162 Review"
+      }
+    },
+    {
+      "id": 3,
+      "brand": "Uniquesky",
+      "title": "Women's Kanjivaram Soft Lichi Silk Saree With Blouse Piece",
+      "price": "Rs. 799",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/51UhLX3KW4L._UX569_.jpg",
+      "rating": {
+      "rate": "4.7 Rating",
+      "review": "198 Review"
+      }
+    },
+    {
+      "id": 4,
+      "brand": "Uniquesky",
+      "title": "Yashika Women's Linen Saree",
+      "price": "Rs. 359",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/819QnnJbB2L._UY741_.jpg",
+      "rating": {
+      "rate": "3.5 Rating",
+      "review": "165 Review"
+      }
+    },
+    {
+      "id": 5,
+      "brand": "Uniquesky",
+      "title": "Vardha Women's Kanchipuram Raw Silk Saree with Unstitched Blouse Piece",
+      "price": "Rs. 899",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/81MKj4mnUhL._UY879_.jpg",
+      "rating": {
+      "rate": "4.8 Rating",
+      "review": "170 Review"
+      }
+    },
+    {
+      "id": 6,
+      "brand": "Uniquesky",
+      "title": "Vardha Women's Banarasi Raw Silk Saree with Unstitched Blouse Piece",
+      "price": "Rs. 587",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/91zuQ+wylpL._UY741_.jpg",
+      "rating": {
+      "rate": "4.5 Rating",
+      "review": "148 Review"
+      }
+    },
+    {
+      "id": 7,
+      "brand": "Uniquesky",
+      "title": "Women's Lucknowi Chikankari Linen cotton Woven Sarees For Women with Blouse sarees for Women",
+      "price": "Rs. 1299",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/41uF1XPtd0L.jpg",
+      "rating": {
+      "rate": "2.4 Rating",
+      "review": "125 Review"
+      }
+    },
+    {
+      "id": 8,
+      "brand": "Uniquesky",
+      "title": "Bhagwati Enterprise Georgette Saree Chikankari lucknowi chikan lucknovi Cotton theard Embroidery Work With Unstitched Designer Blouse",
+      "price": "Rs. 1199",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/81LDjOf4jhL._UY741_.jpg",
+      "rating": {
+      "rate": "3.8 Rating",
+      "review": "189 Review"
+      }
+    },
+    {
+      "id": 5,
+      "brand": "Uniquesky",
+      "title": "Vardha Women's Kanchipuram Raw Silk Saree with Unstitched Blouse Piece",
+      "price": "Rs. 899",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/81MKj4mnUhL._UY879_.jpg",
+      "rating": {
+      "rate": "4.8 Rating",
+      "review": "170 Review"
+      }
+    },
+    {
+      "id": 5,
+      "brand": "Uniquesky",
+      "title": "Vardha Women's Kanchipuram Raw Silk Saree with Unstitched Blouse Piece",
+      "price": "Rs. 899",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/81MKj4mnUhL._UY879_.jpg",
+      "rating": {
+      "rate": "4.8 Rating",
+      "review": "170 Review"
+      }
+    },
+    {
+      "id": 5,
+      "brand": "Uniquesky",
+      "title": "Vardha Women's Kanchipuram Raw Silk Saree with Unstitched Blouse Piece",
+      "price": "Rs. 899",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/81MKj4mnUhL._UY879_.jpg",
+      "rating": {
+      "rate": "4.8 Rating",
+      "review": "170 Review"
+      }
+    },
+    {
+      "id": 5,
+      "brand": "Uniquesky",
+      "title": "Vardha Women's Kanchipuram Raw Silk Saree with Unstitched Blouse Piece",
+      "price": "Rs. 899",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/81MKj4mnUhL._UY879_.jpg",
+      "rating": {
+      "rate": "4.8 Rating",
+      "review": "170 Review"
+      }
+    },
+    {
+      "id": 5,
+      "brand": "Uniquesky",
+      "title": "Vardha Women's Kanchipuram Raw Silk Saree with Unstitched Blouse Piece",
+      "price": "Rs. 899",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/81MKj4mnUhL._UY879_.jpg",
+      "rating": {
+      "rate": "4.8 Rating",
+      "review": "170 Review"
+      }
+    },
+    {
+      "id": 5,
+      "brand": "Uniquesky",
+      "title": "Vardha Women's Kanchipuram Raw Silk Saree with Unstitched Blouse Piece",
+      "price": "Rs. 899",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/81MKj4mnUhL._UY879_.jpg",
+      "rating": {
+      "rate": "4.8 Rating",
+      "review": "170 Review"
+      }
+    },
+    {
+      "id": 5,
+      "brand": "Uniquesky",
+      "title": "Vardha Women's Kanchipuram Raw Silk Saree with Unstitched Blouse Piece",
+      "price": "Rs. 899",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/81MKj4mnUhL._UY879_.jpg",
+      "rating": {
+      "rate": "4.8 Rating",
+      "review": "170 Review"
+      }
+    }
   ]
 }
