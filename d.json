@@ -6,6 +6,20 @@
       "email": "",
       "password": "",
       "id": 1
+    },
+    {
+      "name": "Akshar",
+      "name1": "Gabani",
+      "email": "akshargabani9425@gmail.com",
+      "password": "9913608443@#$ASD",
+      "id": 2
+    },
+    {
+      "name": "lakho",
+      "name1": "vishal",
+      "email": "akshargabani@gmail.com",
+      "password": "98547@#$ASDF",
+      "id": 3
     }
   ]
 }
