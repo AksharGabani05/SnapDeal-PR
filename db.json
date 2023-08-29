@@ -1,0 +1,417 @@
+{
+  "user": [
+    {
+      "name": "",
+      "name1": "",
+      "email": "",
+      "password": "",
+      "id": 1
+    },
+    {
+      "name": "Akshar",
+      "name1": "Gabani",
+      "email": "akshargabani9425@gmail.com",
+      "password": "9913608443@#$ASD",
+      "id": 2
+    },
+    {
+      "name": "lakho",
+      "name1": "vishal",
+      "email": "akshargabani@gmail.com",
+      "password": "98547@#$ASDF",
+      "id": 3
+    }
+  ],
+  "womens":[
+    {
+      "id": 1,
+      "brand": "Uniquesky",
+      "title": "Satrani Women's Printed Poly Silk Saree with Unstitched Blouse Piece",
+      "price": "Rs. 245",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/7143H+2QTgL._UY879_.jpg",
+      "rating": {
+      "rate": "3.9 Rating",
+      "review": "192 Review"
+      }
+    },
+    {
+      "id": 2,
+      "brand": "Uniquesky",
+      "title": "Women's Kanjivaram Soft Silk Saree With Blouse Piece",
+      "price": "Rs. 949",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/712r6exQc+L._UX569_.jpg",
+      "rating": {
+      "rate": "4.9 Rating",
+      "review": "162 Review"
+      }
+    },
+    {
+      "id": 3,
+      "brand": "Uniquesky",
+      "title": "Women's Kanjivaram Soft Lichi Silk Saree With Blouse Piece",
+      "price": "Rs. 799",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/51UhLX3KW4L._UX569_.jpg",
+      "rating": {
+      "rate": "4.7 Rating",
+      "review": "198 Review"
+      }
+    },
+    {
+      "id": 4,
+      "brand": "Uniquesky",
+      "title": "Yashika Women's Linen Saree",
+      "price": "Rs. 359",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/819QnnJbB2L._UY741_.jpg",
+      "rating": {
+      "rate": "3.5 Rating",
+      "review": "165 Review"
+      }
+    },
+    {
+      "id": 5,
+      "brand": "Uniquesky",
+      "title": "Vardha Women's Kanchipuram Raw Silk Saree with Unstitched Blouse Piece",
+      "price": "Rs. 899",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/81MKj4mnUhL._UY879_.jpg",
+      "rating": {
+      "rate": "4.8 Rating",
+      "review": "170 Review"
+      }
+    },
+    {
+      "id": 6,
+      "brand": "Uniquesky",
+      "title": "Vardha Women's Banarasi Raw Silk Saree with Unstitched Blouse Piece",
+      "price": "Rs. 587",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/91zuQ+wylpL._UY741_.jpg",
+      "rating": {
+      "rate": "4.5 Rating",
+      "review": "148 Review"
+      }
+    },
+    {
+      "id": 7,
+      "brand": "Uniquesky",
+      "title": "Women's Lucknowi Chikankari Linen cotton Woven Sarees For Women with Blouse sarees for Women",
+      "price": "Rs. 1299",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/41uF1XPtd0L.jpg",
+      "rating": {
+      "rate": "2.4 Rating",
+      "review": "125 Review"
+      }
+    },
+    {
+      "id": 8,
+      "brand": "Uniquesky",
+      "title": "Bhagwati Enterprise Georgette Saree Chikankari lucknowi chikan lucknovi Cotton theard Embroidery Work With Unstitched Designer Blouse",
+      "price": "Rs. 1199",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/81LDjOf4jhL._UY741_.jpg",
+      "rating": {
+      "rate": "3.8 Rating",
+      "review": "189 Review"
+      }
+    },
+    {
+      "id": 9,
+      "brand": "Uniquesky",
+      "title": "Women's Banarasi Cotton Silk Embroidered Work Saree With Blouse Piece",
+      "price": "Rs. 899825",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/81gYVzsTDfL._UY741_.jpg",
+      "rating": {
+      "rate": "4.9 Rating",
+      "review": "245 Review"
+      }
+    },
+    {
+      "id": 10,
+      "brand": "Uniquesky",
+      "title": "Women's Banarasi Silk Blend Woven Zari With Tussles Saree and Jacquard Woven Blouse Piece",
+      "price": "Rs. 1520",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/71vg-siYnqL._UY741_.jpg",
+      "rating": {
+      "rate": "3.2 Rating",
+      "review": "150 Review"
+      }
+    },
+    {
+      "id": 11,
+      "brand": "Uniquesky",
+      "title": "Women's Assam Cotton Silk With Golden Border Thread Embroidery Saree With Blouse Piece",
+      "price": "Rs. 1990",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/814pcNizESL._UY741_.jpg",
+      "rating": {
+      "rate": "4.2 Rating",
+      "review": "264 Review"
+      }
+    },
+    {
+      "id": 12,
+      "brand": "Uniquesky",
+      "title": "Vardha Women's Banarasi Georgette Saree with Unstitched Blouse Piece",
+      "price": "Rs. 2199",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/91gdDOI7XHL._UY741_.jpg",
+      "rating": {
+      "rate": "4.9 Rating",
+      "review": "950 Review"
+      }
+    },
+    {
+      "id": 13,
+      "brand": "Uniquesky",
+      "title": "Women's Kanjivaram Pure Soft Silk Handloom Saree Pure Golden Zari With Blouse Piece",
+      "price": "Rs. 450",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/81ID8moyoPL._UY741_.jpg",
+      "rating": {
+      "rate": "4.8 Rating",
+      "review": "170 Review"
+      }
+    },
+    {
+      "id": 14,
+      "brand": "Uniquesky",
+      "title": "WoodenTant Women’s soft woven Dhakai jamdani saree In zari work without blouse piece",
+      "price": "Rs. 2166",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/714whtYsnNL._UY741_.jpg",
+      "rating": {
+      "rate": "4.8 Rating",
+      "review": "348 Review"
+      }
+    },
+    {
+      "id": 15,
+      "brand": "Uniquesky",
+      "title": " New Women's Handloom Cotton Pure Soft Bengali Design Dhakai Jamdani Saree Without Blouse",
+      "price": "Rs. 679",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/81kjYCknGbL._UY741_.jpg",
+      "rating": {
+      "rate": "4.8 Rating",
+      "review": "170 Review"
+      }
+    },
+    {
+      "id": 16,
+      "brand": "Acnojs",
+      "title": " Premium Girl's Special Quality Different Heart Shape Bangle Analog Watch with Rose Gold Bracelet - Pack of 2",
+      "price": "Rs. 275",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "girls-Watches",
+      "image": "https://m.media-amazon.com/images/I/51vdKseJ+JL._UX569_.jpg",
+      "rating": {
+      "rate": "3.5 Rating",
+      "review": "460 Review"
+      }
+    },
+    {
+      "id": 17,
+      "brand": "Acnojs",
+      "title": " Premium Luxury Analogue Girl's Watch(Multicolour Dial 1-Multicolour Colored Strap)",
+      "price": "Rs. 398",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "girls-Watches",
+      "image": "https://m.media-amazon.com/images/I/71US4drMvyL._UX679_.jpg",
+      "rating": {
+      "rate": "4.5 Rating",
+      "review": "248 Review"
+      }
+    },
+    {
+      "id": 18,
+      "brand": "Acnojs",
+      "title": "Branded Analogue Black Dial Magnet Watch With Gift Bracelet For Women Or Girls And Watch For Girl Or Women (Combo Of 3)",
+      "price": "Rs. 490",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "girls-Watches",
+      "image": "https://m.media-amazon.com/images/I/91X+C5VLmXL._UX679_.jpg",
+      "rating": {
+      "rate": "4.9 Rating",
+      "review": "978 Review"
+      }
+    },
+    {
+      "id": 19,
+      "brand": "Acnojs",
+      "title": "Premium Pink Dial Diamond Pink Analog Watch Love Heart Diamond Bracelet for Girls Best Design Butterfly Combo 3 Pack of 3",
+      "price": "Rs. 349",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "girls-Watches",
+      "image": "https://m.media-amazon.com/images/I/51k7DNtDD0L._UX679_.jpg",
+      "rating": {
+      "rate": "2.6 Rating",
+      "review": "149 Review"
+      }
+    },
+    {
+      "id": 20,
+      "brand": "Acnojs",
+      "title": "White Dial Diamond Pink Analog Watch Love Heart Diamond Bracelet for Girls Best Design Butterfly Combo 3 Pack of 3",
+      "price": "Rs. 299",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "girls-Watches",
+      "image": "https://m.media-amazon.com/images/I/61nfLEF-ILL._UX679_.jpg",
+      "rating": {
+      "rate": "4.9 Rating",
+      "review": "989 Review"
+      }
+    },
+    {
+      "id": 21,
+      "brand": "Acnojs",
+      "title": "Watch - For Girls New Stylish Combo Of 2 Star Diamond and RoseGold",
+      "price": "Rs. 280",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "girls-Watches",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/watch/s/j/u/-original-imagpzzjgdwzzymb.jpeg?q=70",
+      "rating": {
+      "rate": "3.8 Rating",
+      "review": "465 Review"
+      }
+    },
+    {
+      "id": 22,
+      "brand": "Acnojs",
+      "title": " Watch - For Girls Stylish Attractive Heart Designer Blue Watch and Blue Heart Bracelet",
+      "price": "Rs. 359",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "girls-Watches",
+      "image": "https://rukminim2.flixcart.com/image/832/832/l27wtjk0/watch/3/6/9/2-new-attractive-designer-for-party-wedding-aqua-stone-blue-original-imagdhwehwrhpcdh.jpeg?q=70",
+      "rating": {
+      "rate": "4.7 Rating",
+      "review": "289 Review"
+      }
+    },
+    {
+      "id": 23,
+      "brand": "Acnojs",
+      "title": "Watch - For Girls Blue Heart Designer Fashionable Watch and Blue Diamond Studded Love Bracelet",
+      "price": "Rs. 228",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "girls-Watches",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/watch/k/c/b/2-new-heart-designer-blue-watch-and-blue-diamond-studded-love-original-imagf48unqqpnnry.jpeg?q=70",
+      "rating": {
+      "rate": "4.9 Rating",
+      "review": "989 Review"
+      }
+    },
+    {
+      "id": 24,
+      "brand": "Acnojs",
+      "title": "Analog Rose Gold Dial Women's Watch-839KKM21",
+      "price": "Rs. 958",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "girls-Watches",
+      "image": "https://m.media-amazon.com/images/I/61uY-wl4OdL._UX679_.jpg",
+      "rating": {
+      "rate": "4.9 Rating",
+      "review": "459 Review"
+      }
+    },
+    {
+      "id": 25,
+      "brand": "Acnojs",
+      "title": "White Dial Women's Watch-SS-703W-703B",
+      "price": "Rs. 499",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "girls-Watches",
+      "image": "https://m.media-amazon.com/images/I/819M6B7fgpL._UX522_.jpg",
+      "rating": {
+      "rate": "3.4 Rating",
+      "review": "265 Review"
+      }
+    },
+    {
+      "id": 26,
+      "brand": "Acnojs",
+      "title": "Premium Black Round Diamond Dial with Latest Generation Purple & Rosegold Magnet Belt Analogue Watch",
+      "price": "Rs. 345",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "girls-Watches",
+      "image": "https://m.media-amazon.com/images/I/919YNrdn6dL._UX522_.jpg",
+      "rating": {
+      "rate": "4.8 Rating",
+      "review": "789 Review"
+      }
+    },
+    {
+      "id": 27,
+      "brand": "Acnojs",
+      "title": "Premium Casual Black Dial Women's Purple Analogue Watch",
+      "price": "Rs. 399",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "girls-Watches",
+      "image": "https://m.media-amazon.com/images/I/51waydGxGYL.jpg",
+      "rating": {
+      "rate": "4.8 Rating",
+      "review": "764 Review"
+      }
+    },
+    {
+      "id": 28,
+      "brand": "Acnojs",
+      "title": " Premium White Dial Diamond Pink Analog Watch Love Heart Diamond Bracelet for Girls Best Design Butterfly Combo 3 Pack of 3",
+      "price": "Rs. 399",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "girls-Watches",
+      "image": "https://m.media-amazon.com/images/I/61uvM-Uix+L._UX679_.jpg",
+      "rating": {
+      "rate": "3.9 Rating",
+      "review": "799 Review"
+      }
+    },
+    {
+      "id": 29,
+      "brand": "Acnojs",
+      "title": "Premium Luxury Analogue Girl's Watch(Multicolour Dial 1-Multicolour Colored Strap)",
+      "price": "Rs. 452",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "girls-Watches",
+      "image": "https://m.media-amazon.com/images/I/71US4drMvyL._UX522_.jpg",
+      "rating": {
+      "rate": "3.6 Rating",
+      "review": "521 Review"
+      }
+    },
+    {
+      "id": 30,
+      "brand": "Acnojs",
+      "title": "Analogue Women's Watch (Dial Colored Strap)",
+      "price": "Rs. 452",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "girls-Watches",
+      "image": "https://m.media-amazon.com/images/I/71J17eNWvZL._UX679_.jpg",
+      "rating": {
+      "rate": "4.5 Rating",
+      "review": "425 Review"
+      }
+    }
+  ]
+}
