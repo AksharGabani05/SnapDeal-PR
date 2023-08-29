@@ -23,6 +23,7 @@ const sign = (e) => {
           body: JSON.stringify(user)
           
         })
+        alert("regester succesfull")
       }
     })
     
