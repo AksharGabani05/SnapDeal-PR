@@ -419,6 +419,19 @@
         "rate": "4.5 Rating",
         "review": "425 Review"
       }
+    },
+    {
+      "id": 31,
+      "brand": "Techno handbages",
+      "title": "Women Handbags Shoulder Hobo Bag Purse With Long Strap",
+      "price": "Rs. 452",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "handbages",
+      "image": "https://m.media-amazon.com/images/I/71Raw8VUk5L._UY695_.jpg",
+      "rating": {
+        "rate": "4.5 Rating",
+        "review": "689 Review"
+      }
     }
   ]
 }
