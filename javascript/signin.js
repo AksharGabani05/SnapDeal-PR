@@ -5,7 +5,6 @@ const sign = (e) => {
       name: document.getElementById("first_name").value,
       name1:document.getElementById("last_name").value,
       email: document.getElementById("email").value,
-      phone: document.getElementById("phone").value,
       password: document.getElementById("password").value
     };
     fetch(`http://localhost:3000/user?email=${user.email}`)
@@ -14,7 +13,7 @@ const sign = (e) => {
       if(data.length > 0){
         alert("user already exists")
         setTimeout(
-          window.location.href="./index.html"
+          window.location.href="login.html"
         ,2000);
       }
       else{
@@ -24,9 +23,10 @@ const sign = (e) => {
           body: JSON.stringify(user)
           
         })
-        alert("user sucsessfull")
+        alert("regester succesfull")
       }
     })
+    
     
   }
   document.getElementById("signup").addEventListener("submit", sign)
@@ -90,4 +90,6 @@ const sign = (e) => {
       document.getElementById("name").classList.remove("text-danger")
       document.getElementById("name").classList.add("text-primary")
     }
+    
+    
   })

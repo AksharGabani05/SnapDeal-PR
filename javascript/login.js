@@ -11,6 +11,9 @@ const login = (e) => {
       if(data.length > 0){
         if(data[0].password===user.password){
             alert("login succes full")
+            setTimeout(
+              window.location.href="../index.html"
+            ,2000);
         }
         else{
             alert("enter the correct password")
