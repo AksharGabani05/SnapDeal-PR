@@ -2376,6 +2376,396 @@
         "rate": "4.1 Rating",
         "review": "483 Review"
       }
+    },
+    {
+      "id": 31,
+      "brand": "Wipro ",
+      "title": "Wipro Vesta Grill 1000 Watt Sandwich Maker",
+      "price": "Rs. 2079",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "appliances",
+      "image": "https://m.media-amazon.com/images/I/71RHhhdLgkL._AC_UY327_QL65_.jpg",
+      "rating": {
+        "rate": "4.0 Rating",
+        "review": "755 Review"
+      }
+    },
+    {
+      "id": 32,
+      "brand": "CUCKOO",
+      "title": "CUCKOO 3.5 Litres Electric Pressure Rice Cooker",
+      "price": "Rs. 15271",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "appliances",
+      "image": "https://m.media-amazon.com/images/I/51HFCvoY2qL._AC_UY327_QL65_.jpg",
+      "rating": {
+        "rate": "4.5 Rating",
+        "review": "1.4k Review"
+      }
+    },
+    {
+      "id": 33,
+      "brand": "Kuvings",
+      "title": "Kuvings Nutri Blender PRO Ferrari Red",
+      "price": "Rs. 7999",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "appliances",
+      "image": "https://m.media-amazon.com/images/I/71gVbRgU8NL._AC_UY327_QL65_.jpg",
+      "rating": {
+        "rate": "4.2 Rating",
+        "review": "979 Review"
+      }
+    },
+    {
+      "id": 34,
+      "brand": "Prestige",
+      "title": "Prestige 800W Sandwich Maker",
+      "price": "Rs. 1299",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "appliances",
+      "image": "https://m.media-amazon.com/images/I/51P5A28trLL._AC_UY327_QL65_.jpg",
+      "rating": {
+        "rate": "4.0 Rating",
+        "review": "1.2k Review"
+      }
+    },
+    {
+      "id": 35,
+      "brand": "Pigeon",
+      "title": "Pigeon Healthifry Digital Air Fryer",
+      "price": "Rs. 3355",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "appliances",
+      "image": "https://m.media-amazon.com/images/I/71l+9JWHRbL._AC_UY327_QL65_.jpg",
+      "rating": {
+        "rate": "4.0 Rating",
+        "review": "2.8k Review"
+      }
+    },
+    {
+      "id": 36,
+      "brand": "Pigeon",
+      "title": "Pigeon Amaze Plus Electric Kettle",
+      "price": "Rs. 499",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "appliances",
+      "image": "https://m.media-amazon.com/images/I/51DGcy8eBCL._AC_UY327_QL65_.jpg",
+      "rating": {
+        "rate": "4.0 Rating",
+        "review": "1.7k Review"
+      }
+    },
+    {
+      "id": 37,
+      "brand": "Havells",
+      "title": "Havells Electric Kettle Aqua",
+      "price": "Rs. 1498",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "appliances",
+      "image": "https://m.media-amazon.com/images/I/61SBF33TizS._AC_UY327_QL65_.jpg",
+      "rating": {
+        "rate": "4.3 Rating",
+        "review": "1.7k Review"
+      }
+    },
+    {
+      "id": 38,
+      "brand": "Pigeon",
+      "title": "Pigeon Brewster Coffee Maker",
+      "price": "Rs. 1099",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "appliances",
+      "image": "https://m.media-amazon.com/images/I/51q9WR-LfHL._AC_UY327_QL65_.jpg",
+      "rating": {
+        "rate": "3.3 Rating",
+        "review": "1.3k Review"
+      }
+    },
+    {
+      "id": 39,
+      "brand": "PHILIPS",
+      "title": "PHILIPS Air Fryer HD9200/90",
+      "price": "Rs. 7499",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "appliances",
+      "image": "https://m.media-amazon.com/images/I/71ZJSl4lN2L._AC_UY327_QL65_.jpg",
+      "rating": {
+        "rate": "4.3 Rating",
+        "review": "3.3k Review"
+      }
+    },
+    {
+      "id": 40,
+      "brand": "Kitssential®",
+      "title": "Kitssential® Digital Kitchen Weighing Scale",
+      "price": "Rs. 399",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "appliances",
+      "image": "https://m.media-amazon.com/images/I/41DycVpAZcL._AC_UY327_QL65_.jpg",
+      "rating": {
+        "rate": "4.1 Rating",
+        "review": "29 Review"
+      }
+    },
+    {
+      "id": 41,
+      "brand": "Lifelong",
+      "title": "Lifelong LLOT10 10 Litres Oven, Toaster ",
+      "price": "Rs. 1997",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "appliances",
+      "image": "https://m.media-amazon.com/images/I/71m9IxcjgoL._AC_UY327_QL65_.jpg",
+      "rating": {
+        "rate": "4.0 Rating",
+        "review": "2.4k Review"
+      }
+    },
+    {
+      "id": 42,
+      "brand": "TASMAX",
+      "title": "TASMAX mini waffle maker machine",
+      "price": "Rs. 839",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "appliances",
+      "image": "https://m.media-amazon.com/images/I/71FoH-cTYyL._AC_UY327_QL65_.jpg",
+      "rating": {
+        "rate": "4.0 Rating",
+        "review": "41 Review"
+      }
+    },
+    {
+      "id": 43,
+      "brand": "Borosil",
+      "title": "Borosil Chef Delite 300 Watts Electric Chopper",
+      "price": "Rs. 1999",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "appliances",
+      "image": "https://m.media-amazon.com/images/I/51ePVmIS8aL._AC_UY327_QL65_.jpg",
+      "rating": {
+        "rate": "4.4 Rating",
+        "review": "9.2k Review"
+      }
+    },
+    {
+      "id": 44,
+      "brand": "HASTHIP",
+      "title": "HASTHIP® 5Pcs Cord Organizer for Kitchen Appliances",
+      "price": "Rs. 279",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "appliances",
+      "image": "https://m.media-amazon.com/images/I/61kx0XWhLJL._AC_UY327_QL65_.jpg",
+      "rating": {
+        "rate": "3.0 Rating",
+        "review": "122 Review"
+      }
+    },
+    {
+      "id": 45,
+      "brand": "AGARO",
+      "title": "AGARO Royal 4 Slice Stainless Steel Pop Up Toaster",
+      "price": "Rs. 2133",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "appliances",
+      "image": "https://m.media-amazon.com/images/I/61Ll40Jd0NL._AC_UY327_QL65_.jpg",
+      "rating": {
+        "rate": "4.0 Rating",
+        "review": "258 Review"
+      }
+    },
+    {
+      "id": 46,
+      "brand": "Homehop",
+      "title": "Homehop 100W LED Solar Flood Light",
+      "price": "Rs. 3799",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "solar lights",
+      "image": "https://m.media-amazon.com/images/I/61-kxrFO2pL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": "3.5 Rating",
+        "review": "564 Review"
+      }
+    },
+    {
+      "id": 47,
+      "brand": "Firefly",
+      "title": "Firefly Outdoor Solar Lights",
+      "price": "Rs. 1499",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "solar lights",
+      "image": "https://m.media-amazon.com/images/I/81Dez-T1Y6L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": "4.0 Rating",
+        "review": "56 Review"
+      }
+    },
+    {
+      "id": 48,
+      "brand": "SUN KING",
+      "title": "SUN KING Home 120 Plus- 4",
+      "price": "Rs. 8415",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "solar lights",
+      "image": "https://m.media-amazon.com/images/I/81e9vRRxRUL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": "4.3 Rating",
+        "review": "156 Review"
+      }
+    },
+    {
+      "id": 49,
+      "brand": "d.light",
+      "title": "d.light S3 Portable Solar",
+      "price": "Rs. 507",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "solar lights",
+      "image": "https://m.media-amazon.com/images/I/71m6QdpbE3L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": "4.0 Rating",
+        "review": "531 Review"
+      }
+    },
+    {
+      "id": 50,
+      "brand": "Hardoll",
+      "title": "Hardoll 60W Solar Flood Light",
+      "price": "Rs. 3088",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "solar lights",
+      "image": "https://m.media-amazon.com/images/I/515J2DZvwrL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": "3.5 Rating",
+        "review": "152 Review"
+      }
+    },
+    {
+      "id": 51,
+      "brand": "Homehop",
+      "title": "Homehop 100W All in One Solar Street Light",
+      "price": "Rs. 3889",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "solar lights",
+      "image": "https://m.media-amazon.com/images/I/71Yt8gHnjSL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": "3.5 Rating",
+        "review": "183 Review"
+      }
+    },
+    {
+      "id": 52,
+      "brand": "Epyz",
+      "title": "Epyz Solar Flood Lights 2-in-1",
+      "price": "Rs. 3889",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "solar lights",
+      "image": "https://m.media-amazon.com/images/I/71C+hry2jeL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": "4.0 Rating",
+        "review": "83 Review"
+      }
+    },
+    {
+      "id": 53,
+      "brand": "Epyz",
+      "title": "Solar Light for Home 12 Pack",
+      "price": "Rs. 2699",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "solar lights",
+      "image": "https://m.media-amazon.com/images/I/61EWJMEFsXL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": "3.5 Rating",
+        "review": "220 Review"
+      }
+    },
+    {
+      "id": 54,
+      "brand": "SHomehop",
+      "title": "SHomehop Polycarbonate 77 Led ",
+      "price": "Rs. 849",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "solar lights",
+      "image": "https://m.media-amazon.com/images/I/61HX+Gc3ctL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": "3.9 Rating",
+        "review": "80 Review"
+      }
+    },
+    {
+      "id": 55,
+      "brand": "Homehop",
+      "title": "Homehop Solar LED Lights for Garden",
+      "price": "Rs. 1699",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "solar lights",
+      "image": "https://m.media-amazon.com/images/I/81i4clPVmSL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": "340 Rating",
+        "review": "580 Review"
+      }
+    },
+    {
+      "id": 56,
+      "brand": "Epyz",
+      "title": "Epyz Solar fire Flame String Light ",
+      "price": "Rs. 1649",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "solar lights",
+      "image": "https://m.media-amazon.com/images/I/61uXxeItgUL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": "3.0 Rating",
+        "review": "53 Review"
+      }
+    },
+    {
+      "id": 57,
+      "brand": "ROMINO",
+      "title": "ROMINO Solar Light Outdoor",
+      "price": "Rs. 449",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "solar lights",
+      "image": "https://m.media-amazon.com/images/I/71ggi1pOXkL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": "4.5 Rating",
+        "review": "51 Review"
+      }
+    },
+    {
+      "id": 58,
+      "brand": "Epyz",
+      "title": "Epyz Solar Pillar Light Outdoor Square",
+      "price": "Rs. 5449",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "solar lights",
+      "image": "https://m.media-amazon.com/images/I/61Jpq0NyGxL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": "4.5 Rating",
+        "review": "221 Review"
+      }
+    },
+    {
+      "id": 59,
+      "brand": "Sun King",
+      "title": "Sun King Pico Plus Portable Solar",
+      "price": "Rs. 1528",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "solar lights",
+      "image": "https://m.media-amazon.com/images/I/71JOXpQOSNL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": "4.0 Rating",
+        "review": "538 Review"
+      }
+    },
+    {
+      "id": 60,
+      "brand": "Homehop",
+      "title": "Homehop 60W Solar Led Light for Home",
+      "price": "Rs. 1299",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "solar lights",
+      "image": "https://m.media-amazon.com/images/I/51qQEgq5l4L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": "3.7 Rating",
+        "review": "58 Review"
+      }
     }
   ]
 }
