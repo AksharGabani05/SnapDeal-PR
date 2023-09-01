@@ -5,12 +5,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
- piyush
     <link rel="shortcut icon" href="img/finalFavicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
     <style>
-        @import url(./css/index.css);
         @import url(./css/bootstrap-icons.min.css);
         @import url(./css/bootstrap.min.css);
+        @import url(./css/swiper.css);
+        @import url(./css/index.css);
     </style>
 </head>
 
@@ -18,7 +19,7 @@
     <header id="navbar">
     </header>
     <div class="container">
-        <div class="py-4">
+        <div class="py-4 row">
             <div class="col-3">
                 <div class="sidebar p-3 bg-white sidebar">
                     <h5 class="text-uppercase fs-6 py-2">top categories</h5>
@@ -64,14 +65,66 @@
                     </a>
                 </div>
             </div>
+            <div class="col-9">
+                <div class="swiper mySwiper">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide"><img src="img/web_banner_07-092e2.jpg" alt=""></div>
+                        <div class="swiper-slide"><img src="img/Sarees_webplat_28jun-b0471.jpg" alt=""></div>
+                        <div class="swiper-slide"><img src="img/WEB_Plat_lamp_lightning_28jun-cc06e.jpg" alt=""></div>
+                        <div class="swiper-slide"><img src="img/WEB_Plat_t_shirts_shirts_28jun-ec6f0.jpg" alt=""></div>
+                        <div class="swiper-slide"><img src="img/WEBPlat_Bedsheets_28jun-d4462.jpg" alt=""></div>
+                    </div>
+                    <div class="swiper-button-next"></div>
+                    <div class="swiper-button-prev"></div>
+                </div>
+            </div>
         </div>
     </div>
-</body>
-<script type="module" src="javascript/index.js"></script>
+    <!-- trending section  -->
+    <section class="p-6">
+        <div class="container">
+            <div class="trending-products row">
+                <h4 class="text-uppercase text-secondary fw-normal py-2">trending products</h4>
+                <div id="result" class="row"></div>
+            </div>
+        </div>
+    </section>
 
-=======
-</head>
-<body>
-    hello
-</body> master
+    <!-- download section  -->
+    <section class="py-4">
+        <div class="bg-img bg-white">
+            <div class="container">
+                <div class="download row align-items-center">
+                    <div class="col-6">
+                        <div class="img">
+                            <img src="img/appScreenshot@1x.png" alt="" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-6"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+</body>
+<script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+<script type="module" src="javascript/swiper.js"></script>
+<script type="module" src="javascript/index.js"></script>
+<script>
+    var swiper = new Swiper(".mySwiper", {
+        slidesPerView: 1,
+        spaceBetween: 30,
+        loop: true,
+        pagination: {
+            el: ".swiper-pagination",
+            clickable: true,
+        },
+        navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev",
+        },
+    });
+</script>
+
 </html>

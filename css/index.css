@@ -6,6 +6,50 @@
 .bg{
     background-color: #f7f7f7;
 }
-.sidebar{
+  
+/* .sidebar{
     height: 100vh;
+} */
+.p-price{
+  font-size: 14px;
+}
+.icons i{
+  font-size: 12px;
+}
+.p-name{
+  font-size: 14px;
+}
+img{
+  width: 100%;
+}
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.swiper {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bg-img{
+  background-image: url(../img/leaves1x.png);
+  background-repeat: no-repeat;
+  background-position: top right;
 }
