@@ -3,7 +3,7 @@ const navbar = ()=>{
     <nav class="navbar navbar-expand-lg bg-primary">
             <div class="container d-flex justify-content-between">
                 <a class="navbar-brand" href="../index.html">
-                    <img src="img/sdLatestLogo.svg" alt="">
+                    <img src="/img/sdLatestLogo.svg" alt="">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
