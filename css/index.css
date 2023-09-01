@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg{
+    background-color: #f7f7f7;
+}
+.sidebar{
+    height: 100vh;
+}
