@@ -29,6 +29,60 @@
       "id": 4
     }
   ],
+  "cart": [
+    {
+      "id": 1,
+      "brand": "Gritstones",
+      "title": "Gritstones - White Cotton Blend Regular Fit Men's Casual Shirt ( Pack of 1 )",
+      "price": "Rs. 469",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "men's shirt",
+      "image": "https://n4.sdlcdn.com/imgs/k/h/0/Gritstones-White-Cotton-Blend-Regular-SDL006688549-1-906bf.jpg",
+      "rating": {
+        "rate": "3.9 Rating",
+        "review": "170 Review"
+      }
+    },
+    {
+      "id": 2,
+      "brand": "Peter England",
+      "title": "Peter England Men Shirt",
+      "price": "Rs. 1,067",
+      "description": "Your perfect pack for everyday use and walks in the forest. ",
+      "category": "men's shirt",
+      "image": "https://m.media-amazon.com/images/I/61b3r8qEtRL._UY879_.jpg",
+      "rating": {
+        "rate": "4.0 Rating",
+        "review": "128 Review"
+      }
+    },
+    {
+      "id": 30,
+      "brand": "Nike",
+      "title": "Mens Flex Experience Rn 11 Nn",
+      "price": "Rs. 2279",
+      "description": "Your perfect pack for everyday use and walks in the forest. ",
+      "category": "men's shoes",
+      "image": "https://m.media-amazon.com/images/I/51f1M-cLJeL._AC_UL480_QL65_.jpg",
+      "rating": {
+        "rate": "3.7 Rating",
+        "review": "279 Review"
+      }
+    },
+    {
+      "id": 47,
+      "brand": "Generic",
+      "title": "Men's Rubber Silicone Watch",
+      "price": "Rs. 95",
+      "description": "Your perfect pack for everyday use and walks in the forest. ",
+      "category": "Accessories",
+      "image": "https://m.media-amazon.com/images/I/51YQ432epYL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": "3.4 Rating",
+        "review": "438 Review"
+      }
+    }
+  ],
   "trending": [
     {
       "id": 1,
@@ -123,15 +177,15 @@
     },
     {
       "id": 8,
-      "brand": "TOPLOT",
-      "title": "Men's Solid Slim Fit Cotton Blend Casual Shirt",
-      "price": "Rs. 399",
+      "brand": "Peter England",
+      "title": "Peter England Men Shirt",
+      "price": "Rs. 1,067",
       "description": "Your perfect pack for everyday use and walks in the forest. ",
       "category": "men's shirt",
-      "image": "https://m.media-amazon.com/images/I/81CQRcg5VTL._AC_UL480_FMwebp_QL65_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61b3r8qEtRL._UY879_.jpg",
       "rating": {
-        "rate": "3.1 Rating",
-        "review": "162 Review"
+        "rate": "4.0 Rating",
+        "review": "128 Review"
       }
     },
     {
@@ -734,7 +788,6 @@
         "review": "432 Review"
       }
     },
-
     {
       "id": 46,
       "brand": "AG-jewells",
@@ -930,7 +983,6 @@
         "review": "987 Review"
       }
     },
-
     {
       "id": 61,
       "brand": "Paragone",
@@ -1126,7 +1178,6 @@
         "review": "170 Review"
       }
     }
-    
   ],
   "mens": [
     {
@@ -2103,9 +2154,9 @@
         "rate": "4.3 Rating",
         "review": "99 Review"
       }
-    }    
+    }
   ],
-  "Home&kitchen":[
+  "Home&kitchen": [
     {
       "id": 1,
       "brand": "Solimo",
@@ -2178,7 +2229,6 @@
       "price": "Rs. 149",
       "description": "Your perfect pack for everyday use and walks in the forest.",
       "category": "kitchenware",
-      "image": "https://img3.exportersindia.com/product_images/bc-small/2022/3/3556149/plastic-kitchenware-1648021522-6253593.jpeg",
       "image": "https://m.media-amazon.com/images/I/513KD2t5x+L._AC_UL480_FMwebp_QL65_.jpg",
       "rating": {
         "rate": "4.0 Rating",
@@ -3083,7 +3133,7 @@
       }
     }
   ],
-  "electronic":[
+  "electronic": [
     {
       "id": 1,
       "brand": "samsonic",
@@ -3093,11 +3143,11 @@
       "category": "mobile",
       "image": "https://m.media-amazon.com/images/I/61HHS0HrjpL._SX679_.jpg",
       "rating": {
-      "rate": "3.9 Rating",
-      "review": "110 Review"
+        "rate": "3.9 Rating",
+        "review": "110 Review"
       }
     },
-      {
+    {
       "id": 2,
       "brand": "samsonic",
       "title": "Apple iPhone 14 Plus (128 GB) - Blue",
@@ -3106,11 +3156,11 @@
       "category": "mobile",
       "image": "https://m.media-amazon.com/images/I/61BGE6iu4AL._SX679_.jpg",
       "rating": {
-      "rate": "3. Rating",
-      "review": "80 Review"
+        "rate": "3. Rating",
+        "review": "80 Review"
       }
     },
-      {
+    {
       "id": 3,
       "brand": "samsonic",
       "title": "TECNO Pova 5 (Amber Gold, 8GB RAM,128GB Storage) |",
@@ -3119,8 +3169,8 @@
       "category": "mobile",
       "image": "https://m.media-amazon.com/images/I/61EDXzBH-lL._SX679_.jpg",
       "rating": {
-      "rate": "4.2 Rating",
-      "review": "231 Review"
+        "rate": "4.2 Rating",
+        "review": "231 Review"
       }
     },
     {
@@ -3132,8 +3182,8 @@
       "category": "mobile",
       "image": "https://m.media-amazon.com/images/I/81gpCfWufkL._SX679_.jpg",
       "rating": {
-      "rate": "3.7 Rating",
-      "review": "81 Review"
+        "rate": "3.7 Rating",
+        "review": "81 Review"
       }
     },
     {
@@ -3145,8 +3195,8 @@
       "category": "mobile",
       "image": "https://m.media-amazon.com/images/I/71dEY4Neo3L._SX679_.jpg",
       "rating": {
-      "rate": "3.8 Rating",
-      "review": "113 Review"
+        "rate": "3.8 Rating",
+        "review": "113 Review"
       }
     },
     {
@@ -3158,8 +3208,8 @@
       "category": "mobile",
       "image": "https://m.media-amazon.com/images/I/61bjfEWCd5L._SX679_.jpg",
       "rating": {
-      "rate": "4.3 Rating",
-      "review": "31 Review"
+        "rate": "4.3 Rating",
+        "review": "31 Review"
       }
     },
     {
@@ -3171,8 +3221,8 @@
       "category": "mobile",
       "image": "https://m.media-amazon.com/images/I/61vZSG1KuoL._SX679_.jpg",
       "rating": {
-      "rate": "3.1 Rating",
-      "review": "21 Review"
+        "rate": "3.1 Rating",
+        "review": "21 Review"
       }
     },
     {
@@ -3184,8 +3234,8 @@
       "category": "mobile",
       "image": "https://m.media-amazon.com/images/I/71BoiXkrEmL._SX679_.jpg",
       "rating": {
-      "rate": "3.4 Rating",
-      "review": "441 Review"
+        "rate": "3.4 Rating",
+        "review": "441 Review"
       }
     },
     {
@@ -3197,8 +3247,8 @@
       "category": "mobile",
       "image": "https://m.media-amazon.com/images/I/413Tgk9Li-L._SX300_SY300_QL70_FMwebp_.jpg",
       "rating": {
-      "rate": "3.1 Rating",
-      "review": "31 Review"
+        "rate": "3.1 Rating",
+        "review": "31 Review"
       }
     },
     {
@@ -3210,8 +3260,8 @@
       "category": "mobile",
       "image": "https://m.media-amazon.com/images/I/411Xl6lckGL._SX300_SY300_QL70_FMwebp_.jpg",
       "rating": {
-      "rate": "4.7 Rating",
-      "review": "524 Review"
+        "rate": "4.7 Rating",
+        "review": "524 Review"
       }
     },
     {
@@ -3223,8 +3273,8 @@
       "category": "mobile",
       "image": "https://m.media-amazon.com/images/I/613SAOPmLeL._SX679_.jpg",
       "rating": {
-      "rate": "4.8 Rating",
-      "review": "331 Review"
+        "rate": "4.8 Rating",
+        "review": "331 Review"
       }
     },
     {
@@ -3236,8 +3286,8 @@
       "category": "mobile",
       "image": "https://m.media-amazon.com/images/I/91L9EF-OEGL._SX679_.jpg",
       "rating": {
-      "rate": "4.1 Rating",
-      "review": "51 Review"
+        "rate": "4.1 Rating",
+        "review": "51 Review"
       }
     },
     {
@@ -3249,8 +3299,8 @@
       "category": "mobile",
       "image": "https://m.media-amazon.com/images/I/81ZV6G2iRrL._SX679_.jpg",
       "rating": {
-      "rate": "4.9 Rating",
-      "review": "156 Review"
+        "rate": "4.9 Rating",
+        "review": "156 Review"
       }
     },
     {
@@ -3262,8 +3312,8 @@
       "category": "mobile",
       "image": "https://m.media-amazon.com/images/I/71k3gOik46L._SX679_.jpg",
       "rating": {
-      "rate": "3.9 Rating",
-      "review": "167 Review"
+        "rate": "3.9 Rating",
+        "review": "167 Review"
       }
     },
     {
@@ -3275,8 +3325,8 @@
       "category": "mobile",
       "image": "https://m.media-amazon.com/images/I/61SkyGjrDyL._SX679_.jpg",
       "rating": {
-      "rate": "3.9 Rating",
-      "review": "200 Review"
+        "rate": "3.9 Rating",
+        "review": "200 Review"
       }
     },
     {
@@ -3288,8 +3338,8 @@
       "category": "leptop",
       "image": "https://m.media-amazon.com/images/I/61gsFy6nokL._SX679_.jpg",
       "rating": {
-      "rate": "2.9 Rating",
-      "review": "30 Review"
+        "rate": "2.9 Rating",
+        "review": "30 Review"
       }
     },
     {
@@ -3301,8 +3351,8 @@
       "category": "leptop",
       "image": "https://m.media-amazon.com/images/I/41GiZW0OmLL._SX300_SY300_QL70_FMwebp_.jpg",
       "rating": {
-      "rate": "2.8 Rating",
-      "review": "34 Review"
+        "rate": "2.8 Rating",
+        "review": "34 Review"
       }
     },
     {
@@ -3314,8 +3364,8 @@
       "category": "leptop",
       "image": "https://m.media-amazon.com/images/I/51Bxs7x4X3L._SX679_.jpg",
       "rating": {
-      "rate": "3.8 Rating",
-      "review": "114 Review"
+        "rate": "3.8 Rating",
+        "review": "114 Review"
       }
     },
     {
@@ -3327,8 +3377,8 @@
       "category": "leptop",
       "image": "https://m.media-amazon.com/images/I/81Nofi1CPsL._SX522_.jpg",
       "rating": {
-      "rate": "3.7 Rating",
-      "review": "14 Review"
+        "rate": "3.7 Rating",
+        "review": "14 Review"
       }
     },
     {
@@ -3340,8 +3390,8 @@
       "category": "leptop",
       "image": "https://m.media-amazon.com/images/I/51cNQIk3q9L._SX679_.jpg",
       "rating": {
-      "rate": "4.7 Rating",
-      "review": "84 Review"
+        "rate": "4.7 Rating",
+        "review": "84 Review"
       }
     },
     {
@@ -3353,8 +3403,8 @@
       "category": "leptop",
       "image": "https://m.media-amazon.com/images/I/51cNQIk3q9L._SX679_.jpg",
       "rating": {
-      "rate": "4.7 Rating",
-      "review": "84 Review"
+        "rate": "4.7 Rating",
+        "review": "84 Review"
       }
     },
     {
@@ -3366,8 +3416,8 @@
       "category": "leptop",
       "image": "https://m.media-amazon.com/images/I/41lpiu-GMXL._SY445_SX342_QL70_FMwebp_.jpg",
       "rating": {
-      "rate": "4.2 Rating",
-      "review": "87 Review"
+        "rate": "4.2 Rating",
+        "review": "87 Review"
       }
     },
     {
@@ -3379,8 +3429,8 @@
       "category": "leptop",
       "image": "https://m.media-amazon.com/images/I/618M+ksuptL._SX679_.jpg",
       "rating": {
-      "rate": "4.8 Rating",
-      "review": "12 Review"
+        "rate": "4.8 Rating",
+        "review": "12 Review"
       }
     },
     {
@@ -3392,8 +3442,8 @@
       "category": "leptop",
       "image": "https://m.media-amazon.com/images/I/318z-84K8NL._SX300_SY300_QL70_FMwebp_.jpg",
       "rating": {
-      "rate": "4.9 Rating",
-      "review": "8 Review"
+        "rate": "4.9 Rating",
+        "review": "8 Review"
       }
     },
     {
@@ -3405,8 +3455,8 @@
       "category": "leptop",
       "image": "https://m.media-amazon.com/images/I/61t0Of1jvRL._SX679_.jpg",
       "rating": {
-      "rate": "4.7 Rating",
-      "review": "8 Review"
+        "rate": "4.7 Rating",
+        "review": "8 Review"
       }
     },
     {
@@ -3418,8 +3468,8 @@
       "category": "leptop",
       "image": "https://m.media-amazon.com/images/I/31aPzW9atKL._SX300_SY300_QL70_FMwebp_.jpg",
       "rating": {
-      "rate": "4.6 Rating",
-      "review": "18 Review"
+        "rate": "4.6 Rating",
+        "review": "18 Review"
       }
     },
     {
@@ -3431,8 +3481,8 @@
       "category": "leptop",
       "image": "https://m.media-amazon.com/images/I/61t5-ZvVicL._SX679_.jpg",
       "rating": {
-      "rate": "3.5 Rating",
-      "review": "178 Review"
+        "rate": "3.5 Rating",
+        "review": "178 Review"
       }
     },
     {
@@ -3444,8 +3494,8 @@
       "category": "leptop",
       "image": "https://m.media-amazon.com/images/I/81RHHnGydgL._SX522_.jpg",
       "rating": {
-      "rate": "3.9 Rating",
-      "review": "248 Review"
+        "rate": "3.9 Rating",
+        "review": "248 Review"
       }
     },
     {
@@ -3457,8 +3507,8 @@
       "category": "leptop",
       "image": "https://m.media-amazon.com/images/I/71tHNTGasKL._SX679_.jpg",
       "rating": {
-      "rate": "4.9 Rating",
-      "review": "188 Review"
+        "rate": "4.9 Rating",
+        "review": "188 Review"
       }
     },
     {
@@ -3470,8 +3520,8 @@
       "category": "leptop",
       "image": "https://m.media-amazon.com/images/I/71TPda7cwUL._SX679_.jpg",
       "rating": {
-      "rate": "3.7 Rating",
-      "review": "87 Review"
+        "rate": "3.7 Rating",
+        "review": "87 Review"
       }
     },
     {
@@ -3483,8 +3533,8 @@
       "category": "TV",
       "image": "https://m.media-amazon.com/images/I/71YzqVxXjnL._SX522_.jpg",
       "rating": {
-      "rate": "3.8 Rating",
-      "review": "89 Review"
+        "rate": "3.8 Rating",
+        "review": "89 Review"
       }
     },
     {
@@ -3496,8 +3546,8 @@
       "category": "TV",
       "image": "https://m.media-amazon.com/images/I/71a4ZQNqTiL._SX522_.jpg",
       "rating": {
-      "rate": "4.2 Rating",
-      "review": "128 Review"
+        "rate": "4.2 Rating",
+        "review": "128 Review"
       }
     },
     {
@@ -3509,8 +3559,8 @@
       "category": "TV",
       "image": "https://m.media-amazon.com/images/I/717FSxcSEjL._SX522_.jpg",
       "rating": {
-      "rate": "4 Rating",
-      "review": "12 Review"
+        "rate": "4 Rating",
+        "review": "12 Review"
       }
     },
     {
@@ -3522,8 +3572,8 @@
       "category": "TV",
       "image": "https://m.media-amazon.com/images/I/81xT3no1+6L._SX522_.jpg",
       "rating": {
-      "rate": "3.2 Rating",
-      "review": "41 Review"
+        "rate": "3.2 Rating",
+        "review": "41 Review"
       }
     },
     {
@@ -3535,8 +3585,8 @@
       "category": "TV",
       "image": "https://m.media-amazon.com/images/I/71S1CVKFrfL._SX522_.jpg",
       "rating": {
-      "rate": "3.7 Rating",
-      "review": "21 Review"
+        "rate": "3.7 Rating",
+        "review": "21 Review"
       }
     },
     {
@@ -3548,8 +3598,8 @@
       "category": "TV",
       "image": "https://m.media-amazon.com/images/I/41imW51RweL._SY300_SX300_QL70_FMwebp_.jpg",
       "rating": {
-      "rate": "3.8 Rating",
-      "review": "56 Review"
+        "rate": "3.8 Rating",
+        "review": "56 Review"
       }
     },
     {
@@ -3561,8 +3611,8 @@
       "category": "TV",
       "image": "https://m.media-amazon.com/images/I/71D6DfO-0nL._SX522_.jpg",
       "rating": {
-      "rate": "4.1 Rating",
-      "review": "56 Review"
+        "rate": "4.1 Rating",
+        "review": "56 Review"
       }
     },
     {
@@ -3574,8 +3624,8 @@
       "category": "TV",
       "image": "https://m.media-amazon.com/images/I/71d5fMDvq9L._SX522_.jpg",
       "rating": {
-      "rate": "3.1 Rating",
-      "review": "11 Review"
+        "rate": "3.1 Rating",
+        "review": "11 Review"
       }
     },
     {
@@ -3587,8 +3637,8 @@
       "category": "TV",
       "image": "https://m.media-amazon.com/images/I/71XsaRwNRdL._SX522_.jpg",
       "rating": {
-      "rate": "4.2 Rating",
-      "review": "17 Review"
+        "rate": "4.2 Rating",
+        "review": "17 Review"
       }
     },
     {
@@ -3600,8 +3650,8 @@
       "category": "TV",
       "image": "https://m.media-amazon.com/images/I/81wxS8abrgL._SX522_.jpg",
       "rating": {
-      "rate": "4.8 Rating",
-      "review": "48 Review"
+        "rate": "4.8 Rating",
+        "review": "48 Review"
       }
     },
     {
@@ -3613,8 +3663,8 @@
       "category": "TV",
       "image": "https://m.media-amazon.com/images/I/81AKBd4a2FL._SX522_.jpg",
       "rating": {
-      "rate": "4.5 Rating",
-      "review": "24 Review"
+        "rate": "4.5 Rating",
+        "review": "24 Review"
       }
     },
     {
@@ -3626,8 +3676,8 @@
       "category": "TV",
       "image": "https://m.media-amazon.com/images/I/91OzzQSg47L._SX522_.jpg",
       "rating": {
-      "rate": "4.2 Rating",
-      "review": "51 Review"
+        "rate": "4.2 Rating",
+        "review": "51 Review"
       }
     },
     {
@@ -3639,8 +3689,8 @@
       "category": "TV",
       "image": "https://m.media-amazon.com/images/I/81xT3no1+6L._SX522_.jpg",
       "rating": {
-      "rate": "3.2 Rating",
-      "review": "41 Review"
+        "rate": "3.2 Rating",
+        "review": "41 Review"
       }
     },
     {
@@ -3652,10 +3702,10 @@
       "category": "TV",
       "image": "https://m.media-amazon.com/images/I/81xT3no1+6L._SX522_.jpg",
       "rating": {
-      "rate": "3.2 Rating",
-      "review": "41 Review"
+        "rate": "3.2 Rating",
+        "review": "41 Review"
       }
-    },   
+    },
     {
       "id": 45,
       "brand": "silver-stone",
@@ -3665,8 +3715,8 @@
       "category": "TV",
       "image": "https://m.media-amazon.com/images/I/81xT3no1+6L._SX522_.jpg",
       "rating": {
-      "rate": "3.2 Rating",
-      "review": "41 Review"
+        "rate": "3.2 Rating",
+        "review": "41 Review"
       }
     },
     {
@@ -3678,8 +3728,8 @@
       "category": "Headphones",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/41nzykE3sIL._AC_SX368_.jpg",
       "rating": {
-      "rate": "4.0 Rating",
-      "review": "14k Review"
+        "rate": "4.0 Rating",
+        "review": "14k Review"
       }
     },
     {
@@ -3691,8 +3741,8 @@
       "category": "Headphones",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/315vj6oj-FL._AC_SX368_.jpg",
       "rating": {
-      "rate": "4.0 Rating",
-      "review": "11k Review"
+        "rate": "4.0 Rating",
+        "review": "11k Review"
       }
     },
     {
@@ -3704,8 +3754,8 @@
       "category": "Headphones",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/41zr73E-+9L._AC_SX368_.jpg",
       "rating": {
-      "rate": "4.0 Rating",
-      "review": "12.1k Review"
+        "rate": "4.0 Rating",
+        "review": "12.1k Review"
       }
     },
     {
@@ -3717,8 +3767,8 @@
       "category": "Headphones",
       "image": "https://m.media-amazon.com/images/I/51UhwaQXCpL._AC_UL480_QL65_.jpg",
       "rating": {
-      "rate": "4.0 Rating",
-      "review": "14.1k Review"
+        "rate": "4.0 Rating",
+        "review": "14.1k Review"
       }
     },
     {
@@ -3730,8 +3780,8 @@
       "category": "Headphones",
       "image": "https://m.media-amazon.com/images/I/515jdxLlmaL._AC_UL480_QL65_.jpg",
       "rating": {
-      "rate": "4.0 Rating",
-      "review": "1.16k Review"
+        "rate": "4.0 Rating",
+        "review": "1.16k Review"
       }
     },
     {
@@ -3743,8 +3793,8 @@
       "category": "Headphones",
       "image": "https://m.media-amazon.com/images/I/51Q8DUDT2eL._AC_UL480_QL65_.jpg",
       "rating": {
-      "rate": "4.0 Rating",
-      "review": "1.06k Review"
+        "rate": "4.0 Rating",
+        "review": "1.06k Review"
       }
     },
     {
@@ -3756,8 +3806,8 @@
       "category": "Headphones",
       "image": "https://m.media-amazon.com/images/I/51FnPQlxYZL._AC_UL480_FMwebp_QL65_.jpg",
       "rating": {
-      "rate": "3.5 Rating",
-      "review": "162 Review"
+        "rate": "3.5 Rating",
+        "review": "162 Review"
       }
     },
     {
@@ -3769,8 +3819,8 @@
       "category": "Headphones",
       "image": "https://m.media-amazon.com/images/I/51oMWaW7tKL._AC_UL480_FMwebp_QL65_.jpg",
       "rating": {
-      "rate": "4.0 Rating",
-      "review": "38k Review"
+        "rate": "4.0 Rating",
+        "review": "38k Review"
       }
     },
     {
@@ -3782,8 +3832,8 @@
       "category": "Headphones",
       "image": "https://m.media-amazon.com/images/I/710Gcp4nSiL._AC_UL480_FMwebp_QL65_.jpg",
       "rating": {
-      "rate": "4.3 Rating",
-      "review": "56.9k Review"
+        "rate": "4.3 Rating",
+        "review": "56.9k Review"
       }
     },
     {
@@ -3795,8 +3845,8 @@
       "category": "Headphones",
       "image": "https://m.media-amazon.com/images/I/614x9TBv2xL._AC_UL480_FMwebp_QL65_.jpg",
       "rating": {
-      "rate": "4.0 Rating",
-      "review": "243 Review"
+        "rate": "4.0 Rating",
+        "review": "243 Review"
       }
     },
     {
@@ -3808,8 +3858,8 @@
       "category": "Headphones",
       "image": "https://m.media-amazon.com/images/I/418AP8pw3KL._AC_UL480_FMwebp_QL65_.jpg",
       "rating": {
-      "rate": "4.5 Rating",
-      "review": "15k Review"
+        "rate": "4.5 Rating",
+        "review": "15k Review"
       }
     },
     {
@@ -3821,8 +3871,8 @@
       "category": "Headphones",
       "image": "https://m.media-amazon.com/images/I/61c575GViJL._AC_UL480_FMwebp_QL65_.jpg",
       "rating": {
-      "rate": "4.0 Rating",
-      "review": "26k Review"
+        "rate": "4.0 Rating",
+        "review": "26k Review"
       }
     },
     {
@@ -3834,8 +3884,8 @@
       "category": "Headphones",
       "image": "https://m.media-amazon.com/images/I/51bsS+FQfVL._AC_UL480_FMwebp_QL65_.jpg",
       "rating": {
-      "rate": "3.8 Rating",
-      "review": "950 Review"
+        "rate": "3.8 Rating",
+        "review": "950 Review"
       }
     },
     {
@@ -3847,8 +3897,8 @@
       "category": "Headphones",
       "image": "https://m.media-amazon.com/images/I/61PKVR7S6rL._AC_UL480_FMwebp_QL65_.jpg",
       "rating": {
-      "rate": "3.8 Rating",
-      "review": "35.1k Review"
+        "rate": "3.8 Rating",
+        "review": "35.1k Review"
       }
     },
     {
@@ -3860,8 +3910,8 @@
       "category": "Headphones",
       "image": "https://m.media-amazon.com/images/I/61SUj2aKoEL._AC_UY327_FMwebp_QL65_.jpg",
       "rating": {
-      "rate": "4.7 Rating",
-      "review": "3.1k Review"
+        "rate": "4.7 Rating",
+        "review": "3.1k Review"
       }
     },
     {
@@ -3873,8 +3923,8 @@
       "category": "other",
       "image": "https://m.media-amazon.com/images/I/51zP6w0fxKL._AC_UY327_FMwebp_QL65_.jpg",
       "rating": {
-      "rate": "4.0 Rating",
-      "review": "3.1k Review"
+        "rate": "4.0 Rating",
+        "review": "3.1k Review"
       }
     },
     {
@@ -3886,8 +3936,8 @@
       "category": "other",
       "image": "https://m.media-amazon.com/images/I/51trH9rixrL._AC_UY327_FMwebp_QL65_.jpg",
       "rating": {
-      "rate": "4.0 Rating",
-      "review": "2.1k Review"
+        "rate": "4.0 Rating",
+        "review": "2.1k Review"
       }
     },
     {
@@ -3899,8 +3949,8 @@
       "category": "other",
       "image": "https://m.media-amazon.com/images/I/816lZp-8R2L._AC_UY327_FMwebp_QL65_.jpg",
       "rating": {
-      "rate": "4.0 Rating",
-      "review": "5.1k Review"
+        "rate": "4.0 Rating",
+        "review": "5.1k Review"
       }
     },
     {
@@ -3912,8 +3962,8 @@
       "category": "other",
       "image": "https://m.media-amazon.com/images/I/41aQ3Fka-1L._AC_UY327_FMwebp_QL65_.jpg",
       "rating": {
-      "rate": "3.6 Rating",
-      "review": "1.1k Review"
+        "rate": "3.6 Rating",
+        "review": "1.1k Review"
       }
     },
     {
@@ -3925,8 +3975,8 @@
       "category": "other",
       "image": "https://m.media-amazon.com/images/I/51Qts11MjGL._AC_UY327_FMwebp_QL65_.jpg",
       "rating": {
-      "rate": "4.0 Rating",
-      "review": "7.3k Review"
+        "rate": "4.0 Rating",
+        "review": "7.3k Review"
       }
     },
     {
@@ -3938,8 +3988,8 @@
       "category": "other",
       "image": "https://m.media-amazon.com/images/I/71VSn3vyukL._AC_UY327_FMwebp_QL65_.jpg",
       "rating": {
-      "rate": "4.3 Rating",
-      "review": "765 Review"
+        "rate": "4.3 Rating",
+        "review": "765 Review"
       }
     },
     {
@@ -3951,8 +4001,8 @@
       "category": "other",
       "image": "https://m.media-amazon.com/images/I/71zBUvib7WL._AC_UY327_FMwebp_QL65_.jpg",
       "rating": {
-      "rate": "4.0 Rating",
-      "review": "7.6k Review"
+        "rate": "4.0 Rating",
+        "review": "7.6k Review"
       }
     },
     {
@@ -3964,8 +4014,8 @@
       "category": "other",
       "image": "https://m.media-amazon.com/images/I/71mzaEeE2vL._AC_UY327_FMwebp_QL65_.jpg",
       "rating": {
-      "rate": "4.0 Rating",
-      "review": "1.6k Review"
+        "rate": "4.0 Rating",
+        "review": "1.6k Review"
       }
     },
     {
@@ -3977,8 +4027,8 @@
       "category": "other",
       "image": "https://m.media-amazon.com/images/I/61abhM+5NuL._AC_UY327_FMwebp_QL65_.jpg",
       "rating": {
-      "rate": "4.0 Rating",
-      "review": "1.5k Review"
+        "rate": "4.0 Rating",
+        "review": "1.5k Review"
       }
     },
     {
@@ -3990,8 +4040,8 @@
       "category": "other",
       "image": "https://m.media-amazon.com/images/I/61yoyvY4u-L._AC_UY327_FMwebp_QL65_.jpg",
       "rating": {
-      "rate": "4.0 Rating",
-      "review": "5.5k Review"
+        "rate": "4.0 Rating",
+        "review": "5.5k Review"
       }
     },
     {
@@ -4003,8 +4053,8 @@
       "category": "other",
       "image": "https://m.media-amazon.com/images/I/61jVFRV4p6L._AC_UY327_FMwebp_QL65_.jpg",
       "rating": {
-      "rate": "4.0 Rating",
-      "review": "535 Review"
+        "rate": "4.0 Rating",
+        "review": "535 Review"
       }
     },
     {
@@ -4016,8 +4066,8 @@
       "category": "other",
       "image": "https://m.media-amazon.com/images/I/41s8QuuF6GL._AC_UY327_FMwebp_QL65_.jpg",
       "rating": {
-      "rate": "4.0 Rating",
-      "review": "7.7k Review"
+        "rate": "4.0 Rating",
+        "review": "7.7k Review"
       }
     },
     {
@@ -4029,8 +4079,8 @@
       "category": "other",
       "image": "https://m.media-amazon.com/images/I/61qHhhWiG-L._AC_UY327_FMwebp_QL65_.jpg",
       "rating": {
-      "rate": "3.7 Rating",
-      "review": "13.7k Review"
+        "rate": "3.7 Rating",
+        "review": "13.7k Review"
       }
     },
     {
@@ -4042,8 +4092,8 @@
       "category": "other",
       "image": "https://m.media-amazon.com/images/I/61Pa07p64aL._AC_UY327_FMwebp_QL65_.jpg",
       "rating": {
-      "rate": "4.2 Rating",
-      "review": "4.2k Review"
+        "rate": "4.2 Rating",
+        "review": "4.2k Review"
       }
     },
     {
@@ -4055,8 +4105,8 @@
       "category": "other",
       "image": "https://m.media-amazon.com/images/I/51mmACaG3sL._AC_UY327_FMwebp_QL65_.jpg",
       "rating": {
-      "rate": "4.0 Rating",
-      "review": "403 Review"
+        "rate": "4.0 Rating",
+        "review": "403 Review"
       }
     }
   ],

@@ -10,6 +10,7 @@ const login = (e) => {
     .then((data)=> {
       if(data.length > 0){
         if(data[0].password===user.password){
+          localStorage.setItem("login",true)
             alert("login succes full")
             setTimeout(
               window.location.href="../index.html"

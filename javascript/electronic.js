@@ -5,7 +5,7 @@ const display = (products) =>{
     products.map((product)=>{
         let img = document.createElement("img")
         img.src = product.image;
-        img.classList.add('img-fluid')
+        img.classList.add('img-fluid','w-75','h-75')
         let brand = document.createElement("h3")
         brand.innerHTML = product.brand;
         brand.classList.add('fs-6','text-primary','fw-semibold','text-uppercase')
