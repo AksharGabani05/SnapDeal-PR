@@ -117,3 +117,7 @@ img{
   width: 30px;
   border-top: 3px solid rgb(0 169 211);
 }
+.product-img{
+  width: 250px;
+  height: 250px;
+}

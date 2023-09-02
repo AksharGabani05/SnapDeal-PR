@@ -29,3 +29,7 @@
 .p-box h6{
     font-size: 14px;
 }
+.p-box img{
+    width: 200px;
+    height: 200px;
+}
