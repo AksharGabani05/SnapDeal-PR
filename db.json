@@ -27,59 +27,40 @@
       "email": "asdsfd@gmail.com",
       "password": "9854@#$%ASDF",
       "id": 4
+    },
+    {
+      "name": "akshar",
+      "name1": "patel",
+      "email": "akpatel99@gmail.com",
+      "password": "991360@#$ASD",
+      "id": 5
     }
   ],
   "cart": [
     {
-      "id": 30,
-      "brand": "Nike",
-      "title": "Mens Flex Experience Rn 11 Nn",
-      "price": "Rs. 2279",
-      "description": "Your perfect pack for everyday use and walks in the forest. ",
-      "category": "men's shoes",
-      "image": "https://m.media-amazon.com/images/I/51f1M-cLJeL._AC_UL480_QL65_.jpg",
-      "rating": {
-        "rate": "3.7 Rating",
-        "review": "279 Review"
-      }
-    },
-    {
-      "id": 47,
-      "brand": "Generic",
-      "title": "Men's Rubber Silicone Watch",
-      "price": "Rs. 95",
-      "description": "Your perfect pack for everyday use and walks in the forest. ",
-      "category": "Accessories",
-      "image": "https://m.media-amazon.com/images/I/51YQ432epYL._AC_UL480_FMwebp_QL65_.jpg",
-      "rating": {
-        "rate": "3.4 Rating",
-        "review": "438 Review"
-      }
-    },
-    {
-      "id": 75,
-      "brand": "Raymond",
-      "title": "Men Pants",
-      "price": "Rs. 1203",
-      "description": "Your perfect pack for everyday use and walks in the forest. ",
-      "category": "jeans",
-      "image": "https://m.media-amazon.com/images/I/81NbvkD7mLL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": 2,
+      "brand": "Solimo",
+      "title": "Modular Plastic Storage",
+      "price": "Rs. 799",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "kitchenware",
+      "image": "https://m.media-amazon.com/images/I/71jYlFCAPOL._AC_UL480_FMwebp_QL65_.jpg",
       "rating": {
         "rate": "4.3 Rating",
-        "review": "99 Review"
+        "review": "310 Review"
       }
     },
     {
-      "id": 65,
-      "brand": "INKD",
-      "title": "Men's Lightweight & Stretchable",
-      "price": "Rs. 789",
-      "description": "Your perfect pack for everyday use and walks in the forest. ",
-      "category": "jeans",
-      "image": "https://m.media-amazon.com/images/I/71caXw8nMIL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": 33,
+      "brand": "Kuvings",
+      "title": "Kuvings Nutri Blender PRO Ferrari Red",
+      "price": "Rs. 7999",
+      "description": "Your perfect pack for everyday use and walks in the forest.",
+      "category": "appliances",
+      "image": "https://m.media-amazon.com/images/I/71gVbRgU8NL._AC_UY327_QL65_.jpg",
       "rating": {
-        "rate": "4.4 Rating",
-        "review": "123 Review"
+        "rate": "4.2 Rating",
+        "review": "979 Review"
       }
     }
   ],
@@ -176,7 +157,6 @@
       }
     },
     {
-
       "id": 8,
       "brand": "Peter England",
       "title": "Peter England Men Shirt",
@@ -190,7 +170,6 @@
       }
     },
     {
-
       "id": 9,
       "brand": "Anjali",
       "title": "Cookware Set without Induction ",
@@ -2231,11 +2210,7 @@
       "price": "Rs. 149",
       "description": "Your perfect pack for everyday use and walks in the forest.",
       "category": "kitchenware",
-
-      "image": "https://m.media-amazon.com/images/I/513KD2t5x+L._AC_UL480_FMwebp_QL65_.jpg",
-
       "image": "https://img3.exportersindia.com/product_images/bc-small/2022/3/3556149/plastic-kitchenware-1648021522-6253593.jpeg",
-
       "rating": {
         "rate": "4.0 Rating",
         "review": "361 Review"
