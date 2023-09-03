@@ -8,7 +8,7 @@ const display = (pr) =>{
         p +=`
         <div class="col-xl-3 col-lg-3 col-md-4 col-sm-12 col-xs-12">
                     <div class="porduct bg-white rounded-2 p-3">
-                        <img src=${product.image} alt="" class="img-fluid">
+                        <img src=${product.image} alt="" class="product-img">
                         <span class="p-name">${product.title}</span>
                         <div class="d-flex justify-content-between py-2">
                             <div>
