@@ -11,6 +11,12 @@
         @import url(../css/bootstrap-icons.min.css);
         @import url(../css/bootstrap.min.css);
     </style>
+    <style>
+        #cart img{
+            width: 180px;
+            height: 180px;
+        }
+    </style>
 </head>
 
 <body class="bg">
@@ -21,275 +27,26 @@
 <script type="module" src="../javascript/cart.js"></script>
 </head>
 <body>
-    
-      <!-- cart + summary -->
-      <section class="bg-light my-5">
-        <div class="container">
-          <div class="row">
-            <!-- cart -->
-            <div class="col-lg-9">
-              <div class="card border shadow-0">
-                <div class="m-4">
-                  <h4 class="card-title mb-4">Your shopping cart</h4>
-                  <div class="row gy-3 mb-4">
-                    <div class="col-lg-5">
-                      <div class="me-lg-5">
-                        <div class="d-flex">
-                          <img src="https://bootstrap-ecommerce.com/bootstrap5-ecommerce/images/items/11.webp" class="border rounded me-3" style="width: 96px; height: 96px;" />
-                          <div class="">
-                            <a href="#" class="nav-link">Winter jacket for men and lady</a>
-                            <p class="text-muted">Yellow, Jeans</p>
-                          </div>
-                        </div>
-                      </div>
+  <section class="padding-80">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-12 mx-auto">
+                <div class="col-12 p-2">
+                    <div class="border border-1 border-muted p-3">
+                        <p class="fs-5 fw-semibold text-capitalize m-0">Check your Saved for later items below or <a href="../index.html">continue shopping</a> .</p>
                     </div>
-                    <div class="col-lg-2 col-sm-6 col-6 d-flex flex-row flex-lg-column flex-xl-row text-nowrap">
-                      <div class="">
-                        <select style="width: 100px;" class="form-select me-4">
-                          <option>1</option>
-                          <option>2</option>
-                          <option>3</option>
-                          <option>4</option>
-                        </select>
-                      </div>
-                      <div class="">
-                        <text class="h6">$1156.00</text> <br />
-                        <small class="text-muted text-nowrap"> $460.00 / per item </small>
-                      </div>
-                    </div>
-                    <div class="col-lg col-sm-6 d-flex justify-content-sm-center justify-content-md-start justify-content-lg-center justify-content-xl-end mb-2">
-                      <div class="float-md-end">
-                        <a href="#!" class="btn btn-light border px-2 icon-hover-primary"><i class="fas fa-heart fa-lg px-1 text-secondary"></i></a>
-                        <a href="#" class="btn btn-light border text-danger icon-hover-danger"> Remove</a>
-                      </div>
-                    </div>
-                  </div>
-      
-                  <div class="row gy-3 mb-4">
-                    <div class="col-lg-5">
-                      <div class="me-lg-5">
-                        <div class="d-flex">
-                          <img src="https://bootstrap-ecommerce.com/bootstrap5-ecommerce/images/items/12.webp" class="border rounded me-3" style="width: 96px; height: 96px;" />
-                          <div class="">
-                            <a href="#" class="nav-link">Mens T-shirt Cotton Base</a>
-                            <p class="text-muted">Blue, Medium</p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-lg-2 col-sm-6 col-6 d-flex flex-row flex-lg-column flex-xl-row text-nowrap">
-                      <div class="">
-                        <select style="width: 100px;" class="form-select me-4">
-                          <option>1</option>
-                          <option>2</option>
-                          <option>3</option>
-                          <option>4</option>
-                        </select>
-                      </div>
-                      <div class="">
-                        <text class="h6">$44.80</text> <br />
-                        <small class="text-muted text-nowrap"> $12.20 / per item </small>
-                      </div>
-                    </div>
-                    <div class="col-lg col-sm-6 d-flex justify-content-sm-center justify-content-md-start justify-content-lg-center justify-content-xl-end mb-2">
-                      <div class="float-md-end">
-                        <a href="#!" class="btn btn-light border px-2 icon-hover-primary"><i class="fas fa-heart fa-lg px-1 text-secondary"></i></a>
-                        <a href="#" class="btn btn-light border text-danger icon-hover-danger"> Remove</a>
-                      </div>
-                    </div>
-                  </div>
-      
-                  <div class="row gy-3">
-                    <div class="col-lg-5">
-                      <div class="me-lg-5">
-                        <div class="d-flex">
-                          <img src="https://bootstrap-ecommerce.com/bootstrap5-ecommerce/images/items/13.webp" class="border rounded me-3" style="width: 96px; height: 96px;" />
-                          <div class="">
-                            <a href="#" class="nav-link">Blazer Suit Dress Jacket for Men</a>
-                            <p class="text-muted">XL size, Jeans, Blue</p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-lg-2 col-sm-6 col-6 d-flex flex-row flex-lg-column flex-xl-row text-nowrap">
-                      <div class="">
-                        <select style="width: 100px;" class="form-select me-4">
-                          <option>1</option>
-                          <option>2</option>
-                          <option>3</option>
-                          <option>4</option>
-                        </select>
-                      </div>
-                      <div class="">
-                        <text class="h6">$1156.00</text> <br />
-                        <small class="text-muted text-nowrap"> $460.00 / per item </small>
-                      </div>
-                    </div>
-                    <div class="col-lg col-sm-6 d-flex justify-content-sm-center justify-content-md-start justify-content-lg-center justify-content-xl-end mb-2">
-                      <div class="float-md-end">
-                        <a href="#!" class="btn btn-light border px-2 icon-hover-primary"><i class="fas fa-heart fa-lg px-1 text-secondary"></i></a>
-                        <a href="#" class="btn btn-light border text-danger icon-hover-danger"> Remove</a>
-                      </div>
-                    </div>
-                  </div>
+                    <div id="pro" class="row"></div>
                 </div>
-      
-                <div class="border-top pt-4 mx-4 mb-4">
-                  <p><i class="fas fa-truck text-muted fa-lg"></i> Free Delivery within 1-2 weeks</p>
-                  <p class="text-muted">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                    aliquip
-                  </p>
-                </div>
-              </div>
-            </div>
-            <!-- cart -->
-            <!-- summary -->
-            <div class="col-lg-3">
-              <div class="card mb-3 border shadow-0">
-                <div class="card-body">
-                  <form>
-                    <div class="form-group">
-                      <label class="form-label">Have coupon?</label>
-                      <div class="input-group">
-                        <input type="text" class="form-control border" name="" placeholder="Coupon code" />
-                        <button class="btn btn-light border">Apply</button>
-                      </div>
+                <div class="col-12 p-2">
+                    <div class="border border-1 border-muted p-3">
+                        <p class="fs-4 fw-bold text-capitalize">Your items :</p>
+                        <div id="cart" class="row p-3"></div>
                     </div>
-                  </form>
                 </div>
-              </div>
-              <div class="card shadow-0 border">
-                <div class="card-body">
-                  <div class="d-flex justify-content-between">
-                    <p class="mb-2">Total price:</p>
-                    <p class="mb-2">$329.00</p>
-                  </div>
-                  <div class="d-flex justify-content-between">
-                    <p class="mb-2">Discount:</p>
-                    <p class="mb-2 text-success">-$60.00</p>
-                  </div>
-                  <div class="d-flex justify-content-between">
-                    <p class="mb-2">TAX:</p>
-                    <p class="mb-2">$14.00</p>
-                  </div>
-                  <hr />
-                  <div class="d-flex justify-content-between">
-                    <p class="mb-2">Total price:</p>
-                    <p class="mb-2 fw-bold">$283.00</p>
-                  </div>
-      
-                  <div class="mt-3">
-                    <a href="#" class="btn btn-success w-100 shadow-0 mb-2"> Make Purchase </a>
-                    <a href="#" class="btn btn-light w-100 border mt-2"> Back to shop </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <!-- summary -->
-          </div>
+            </div>            
         </div>
-      </section>
-      <!-- cart + summary -->
-      <section>
-        <div class="container my-5">
-          <header class="mb-4">
-            <h3>Recommended items</h3>
-          </header>
-      
-          ( trending items )
-        </div>
-      </section>
-      
-      <div">
+    </div>
+</section>
 
-        <footer class="text-white text-center text-lg-start" style="background-color: #23242a;">
-          <!-- Grid container -->
-          <div class="container p-4">
-            <!--Grid row-->
-            <div class="row mt-4">
-              <!--Grid column-->
-              <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
-                <h5 class="text-uppercase mb-4 text-white">About company</h5>
-      
-                <p>
-                  At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium
-                  voluptatum deleniti atque corrupti.
-                </p>
-      
-                <p>
-                  Blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas
-                  molestias.
-                </p>
-      
-                <div class="mt-4">
-                 <i class="bi bi-facebook px-2" style="font-size: 35px; color: #df3450;"></i>
-                 <i class="bi bi-instagram px-2" style="font-size: 35px; color: #df3450;"></i>
-                 <i class="bi bi-youtube px-2" style="font-size: 35px; color: #df3450;"></i>
-                 <i class="bi bi-whatsapp px-2" style="font-size: 35px; color: #df3450;"></i>
-                 <i class="bi bi-telegram px-2" style="font-size: 35px; color: #df3450;"></i>
-                  <!-- Linkedin -->
-                </div>
-              </div>
-              <!--Grid column-->
-      
-              <!--Grid column-->
-              <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
-                <h5 class="text-uppercase mb-4 pb-1 text-white">Search something</h5>
-      
-                <div class="form-outline form-white mb-4">
-                  <input type="text" id="formControlLg" class="form-control form-control-lg" placeholder="search">
-                <div class="form-notch"><div class="form-notch-leading" style="width: 9px;"></div><div class="form-notch-middle" style="width: 48.8px;"></div><div class="form-notch-trailing"></div></div></div>
-      
-                <ul class="fa-ul" style="margin-left: 1.65em;">
-                  <li class="mb-3">
-                    <span class="fa-li"><i class="fas fa-home"></i></span><span class="ms-2">Surat Katargam, 395005, IND</span>
-                  </li>
-                  <li class="mb-3">
-                    <span class="fa-li"><i class="fas fa-envelope"></i></span><span class="ms-2">info@example.com</span>
-                  </li>
-                  <li class="mb-3">
-                    <span class="fa-li"><i class="fas fa-phone"></i></span><span class="ms-2">+91 7821405638</span>
-                  </li>
-                  <li class="mb-3">
-                    <span class="fa-li"><i class="fas fa-print"></i></span><span class="ms-2">+91 5236987452</span>
-                  </li>
-                </ul>
-              </div>
-              <!--Grid column-->
-      
-              <!--Grid column-->
-              <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
-                <h5 class="text-uppercase mb-4 text-white">Policy Information</h5>
-      
-                <p>Privacy Policy <br>
-                  Terms of Sale <br>
-                  Terms of Use <br>
-                  Report Abuse & Takedown Policy <br>
-                  Know Your BIS Standard <br>
-                  Products Under Cumpulsory BIS Certification <br>
-                  FAQ
-                  </p>
-        
-                 
-              </div>
-              <!--Grid column-->
-            </div>
-            <!--Grid row-->
-          </div>
-          <!-- Grid container -->
-          <h6 class="text-secondary fw-normal py-2 px-3" style="font-size: 12px;">
-            Men: Shirts for Men / Casual Shirts for Men / Formal Shirts for Men / Hoodies for Men / Cotton Shirts for Men / T Shirts for Men / Polo T shirts / Kurta Pajama for Men / White Shirt / Black Shirt / Lower for Men / Trousers for Men / Jacket for Men / Formal Pants for Men / Tracksuit for Men / Jeans for Men / Kurta Payjama Sets / Kurta for Men / Blazer for Men / Sweater for Men <br>Women: Tops for Women / Kurti / Cotton Sarees / Georgette Sarees / Chiffon Sarees / Net Sarees / Dresses for Women / Jumpsuit for Women / Jeans for Women / Salwar Suit / Bra / Jacket for Women / Night Dress for Women / Sweatshirt for Women / Shorts for Women / Readymade Blouse / Dupatta / T Shirt for Women / Shirts for Women / Skirts for Women / Ethnic wear for Women / Western Dresses for Women / Leggings for Women <br> Footwear: Men's Footwear / Casual Shoes for Men / Formal Shoes for Men / Loafers for Men / Slippers for Men / Boots for Men / Sandals for Men / Footwear for Women / Heels for Women / Sandals for Women / Shoes for Women / Sandals for Women / Slippers for Women / Boots for Women / Jutti for Women / Sports Shoes for Women <br>Home & Kitchen: Wall Painting / Wall Stickers / Dream Catcher / Rangoli Designs / Clock / Wall Clock / Alarm Clock / Diya / Bean Bag / Laptop Table / Study Table / Wall Hanging / Ceiling Lights / Table Lamp / Hanging Lights / LED Bulbs / Torch Light / LED Lights / Flower Vase / Keychain / Rudraksha / Screwdriver <br>Watch: Watch For Men / Womens Watches / Smart Watch / Boys Watch / Girls Watch <br>Home Furnishing: Bed Sheet / Mosquito Net / Mattress / Curtains / Sofa Cover / Blanket / Pillow / Carpet / Apron / Quilt / Floor Mat / Towel / Pillow Cover <br>Electronics: Bluetooth Speakers / Headphones / Earphone / Ceiling Fan / Geysers / Trimmer / Hair Straightner / Hair Dryer / Water Purifier / Mixer Grinder / Gas Stove / Electric Kettle / Computer Mouse / Computer Keyboard / USB & HDMI Cables / Computer Antivirus <br>Mobiles Accessories: Mobile Covers / Leather Mobile Covers / Printed Back Covers / Tempered Glass <br><br>Snapdeal is India's leading pure-play value Ecommerce platform. Founded in 2010 by Kunal Bahl and Rohit Bansal, Snapdeal is one of the top four online lifestyle shopping destinations of India. Snapdeal brings together a wide assortment of good quality and value- priced merchandise on its platform. Snapdeal's vision is to enable the shoppers of Bharat to experience the joy of living their aspirations through reliable, value-for-money shopping. With a personalized, multilingual interface and cutting edge technology, Snapdeal has simplified the shopping experience for its value-conscious buyers by showcasing the most relevant products- products that are a good functional fit with their needs and of a quality that lasts- thereby delivering true value to its customers. With its commitment to high service standards, Snapdeal suppliers operate under a well structured ecosystem that enables them to offer great quality products at affordable prices. With majority of the value-seeking, middle-income, price-conscious buyers coming from the non-metros, Snapdeal’s logistics networks powered by third party logistics cover more than 96% of India’s pin codes enabling order deliveries to more than 2500 towns and cities and expanding. Further, Snapdeal's mission is to become India’s value lifestyle omni-channel leader. We are excited about continuing to build a complete ecosystem around value commerce, where we can serve Bharat consumers wherever they are on their offline to online shopping journey. Snapdeal is part of the AceVector Group and one of India’s best-known e-commerce companies with an exclusive focus on the value segment.
-        </h6>
-      
-          <!-- Copyright -->
-          <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-            © 2023 Copyright:
-            <a class="text-pink" href="index.html">SanapDeal.com</a>
-          </div>
-          <!-- Copyright -->
-        </footer>
-        
-      </div>
 </body>
 </html>

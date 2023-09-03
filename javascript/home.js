@@ -1,11 +1,11 @@
-import navbar from "../components/nav.js";
+import navbar from "../components/nav2.js";
 document.getElementById("navbar").innerHTML = navbar()
 
 const display = (products) =>{
     products.map((product)=>{
         let img = document.createElement("img")
         img.src = product.image;
-        img.classList.add('img-fluid')
+        img.classList.add('img-fluid','w-75','h-75')
         let brand = document.createElement("h3")
         brand.innerHTML = product.brand;
         brand.classList.add('fs-6','text-primary','fw-semibold','text-uppercase')
@@ -21,6 +21,21 @@ const display = (products) =>{
         let btn = document.createElement("button")
         btn.innerHTML = "add to cart";
         btn.classList.add('btn','border','text-white','text-capitalize','bg-primary','border','border-0')
+        btn.addEventListener("click", () => {
+            if (localStorage.getItem("login")) {
+              fetch("http://localhost:3000/cart", {
+                method: "POST",
+                headers: { 'content-type': 'application/json' },
+                body: JSON.stringify(product)
+              })
+            }
+            else{
+              alert("please first login then you can add to cart")
+              setTimeout(
+                window.location.href="../pages/login.html"
+              ,1000)
+            }
+          })
         let p_box = document.createElement("div")
         p_box.setAttribute("class","p-box")
         p_box.classList.add('p-2','bg-white','text-center')
@@ -71,6 +86,25 @@ const get = () =>{
     .then((data) =>display(data))
 }
 
+get();
+
+fetch('http://localhost:3000/Home&kitchen')
+  .then((response) => response.json())
+  .then((data) => {
+    document.getElementById("search").addEventListener("keypress", () => {
+      let search = document.getElementById("search").value
+      let results = data.filter(product =>product.title.toLowerCase().includes(search.toLowerCase())
+      );
+      if (results.length == 0) {
+        document.getElementById("output").innerHTML = "prodcuts not found"
+      }
+      else {
+        display(results)
+      }
+    })
+  })
+
+
 // category 
 
 
@@ -101,3 +135,4 @@ for (let i = 0; i < cat.length; i++) {
   document.getElementById("all").addEventListener("click" , get)
 
   get();
+
