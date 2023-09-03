@@ -1,4 +1,4 @@
-import navbar from "../components/nav.js";
+import navbar from "../components/nav2.js";
 document.getElementById("navbar").innerHTML = navbar()
 
 const display = (products) =>{
@@ -21,6 +21,21 @@ const display = (products) =>{
         let btn = document.createElement("button")
         btn.innerHTML = "add to cart";
         btn.classList.add('btn','border','text-white','text-capitalize','bg-primary','border','border-0')
+        btn.addEventListener("click", () => {
+            if (localStorage.getItem("login")) {
+              fetch("http://localhost:3000/cart", {
+                method: "POST",
+                headers: { 'content-type': 'application/json' },
+                body: JSON.stringify(product)
+              })
+            }
+            else{
+              alert("please first login then you can add to cart")
+              setTimeout(
+                window.location.href="../pages/login.html"
+              ,1000)
+            }
+          })
         let p_box = document.createElement("div")
         p_box.setAttribute("class","p-box")
         p_box.classList.add('p-2','bg-white','text-center')
@@ -38,3 +53,19 @@ const get = () =>{
     .then((data) =>display(data))
 }
 get();
+
+fetch('http://localhost:3000/electronic')
+  .then((response) => response.json())
+  .then((data) => {
+    document.getElementById("search").addEventListener("keypress", () => {
+      let search = document.getElementById("search").value
+      let results = data.filter(product =>product.title.toLowerCase().includes(search.toLowerCase())
+      );
+      if (results.length == 0) {
+        document.getElementById("output").innerHTML = "prodcuts not found"
+      }
+      else {
+        display(results)
+      }
+    })
+  })

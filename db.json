@@ -31,32 +31,6 @@
   ],
   "cart": [
     {
-      "id": 1,
-      "brand": "Gritstones",
-      "title": "Gritstones - White Cotton Blend Regular Fit Men's Casual Shirt ( Pack of 1 )",
-      "price": "Rs. 469",
-      "description": "Your perfect pack for everyday use and walks in the forest.",
-      "category": "men's shirt",
-      "image": "https://n4.sdlcdn.com/imgs/k/h/0/Gritstones-White-Cotton-Blend-Regular-SDL006688549-1-906bf.jpg",
-      "rating": {
-        "rate": "3.9 Rating",
-        "review": "170 Review"
-      }
-    },
-    {
-      "id": 2,
-      "brand": "Peter England",
-      "title": "Peter England Men Shirt",
-      "price": "Rs. 1,067",
-      "description": "Your perfect pack for everyday use and walks in the forest. ",
-      "category": "men's shirt",
-      "image": "https://m.media-amazon.com/images/I/61b3r8qEtRL._UY879_.jpg",
-      "rating": {
-        "rate": "4.0 Rating",
-        "review": "128 Review"
-      }
-    },
-    {
       "id": 30,
       "brand": "Nike",
       "title": "Mens Flex Experience Rn 11 Nn",
@@ -80,6 +54,32 @@
       "rating": {
         "rate": "3.4 Rating",
         "review": "438 Review"
+      }
+    },
+    {
+      "id": 75,
+      "brand": "Raymond",
+      "title": "Men Pants",
+      "price": "Rs. 1203",
+      "description": "Your perfect pack for everyday use and walks in the forest. ",
+      "category": "jeans",
+      "image": "https://m.media-amazon.com/images/I/81NbvkD7mLL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": "4.3 Rating",
+        "review": "99 Review"
+      }
+    },
+    {
+      "id": 65,
+      "brand": "INKD",
+      "title": "Men's Lightweight & Stretchable",
+      "price": "Rs. 789",
+      "description": "Your perfect pack for everyday use and walks in the forest. ",
+      "category": "jeans",
+      "image": "https://m.media-amazon.com/images/I/71caXw8nMIL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": "4.4 Rating",
+        "review": "123 Review"
       }
     }
   ],

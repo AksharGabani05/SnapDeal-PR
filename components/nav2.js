@@ -13,8 +13,8 @@ const navbar = ()=>{
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <div class="col-md-6 mx-auto">
                         <form class="d-flex " role="search">
-                            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                            <button class="btn border border-white text-white" type="submit">Search</button>
+                            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" id="search">
+                            <button class="btn border border-white text-white" type="submit" id"search">Search</button>
                         </form>
                     </div>
                     <div class="d-flex align-items-center">

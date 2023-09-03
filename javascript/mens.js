@@ -1,12 +1,11 @@
-import navbar from "../components/nav.js";
+import navbar from "../components/nav2.js";
 document.getElementById("navbar").innerHTML = navbar()
 
 const display = (products) =>{
     products.map((product)=>{
         let img = document.createElement("img")
         img.src = product.image;
-        img.classList.add('img-fluid','w-75','h-75')
-        
+        img.classList.add('img-fluid','w-75','h-75')        
         let brand = document.createElement("h3")
         brand.innerHTML = product.brand;
         brand.classList.add('fs-6','text-primary','fw-semibold','text-uppercase')
@@ -54,3 +53,19 @@ const get = () =>{
     .then((data) =>display(data))
 }
 get();
+
+fetch('http://localhost:3000/mens')
+  .then((response) => response.json())
+  .then((data) => {
+    document.getElementById("search").addEventListener("keypress", () => {
+      let search = document.getElementById("search").value
+      let results = data.filter(product =>product.title.toLowerCase().includes(search.toLowerCase())
+      );
+      if (results.length == 0) {
+        document.getElementById("output").innerHTML = "prodcuts not found"
+      }
+      else {
+        display(results)
+      }
+    })
+  })

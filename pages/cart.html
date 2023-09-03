@@ -11,6 +11,12 @@
         @import url(../css/bootstrap-icons.min.css);
         @import url(../css/bootstrap.min.css);
     </style>
+    <style>
+        #cart img{
+            width: 180px;
+            height: 180px;
+        }
+    </style>
 </head>
 
 <body class="bg">
@@ -21,15 +27,15 @@
 <script type="module" src="../javascript/cart.js"></script>
 </head>
 <body>
-    
   <section class="padding-80">
     <div class="container">
         <div class="row">
-            <div class="col-12 col-lg-9 mx-auto">
+            <div class="col-12 col-lg-12 mx-auto">
                 <div class="col-12 p-2">
                     <div class="border border-1 border-muted p-3">
                         <p class="fs-5 fw-semibold text-capitalize m-0">Check your Saved for later items below or <a href="../index.html">continue shopping</a> .</p>
                     </div>
+                    <div id="pro" class="row"></div>
                 </div>
                 <div class="col-12 p-2">
                     <div class="border border-1 border-muted p-3">
@@ -41,5 +47,6 @@
         </div>
     </div>
 </section>
+
 </body>
 </html>

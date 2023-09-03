@@ -1,4 +1,4 @@
-import navbar from "../components/nav.js";
+import navbar from "../components/nav2.js";
 document.getElementById("navbar").innerHTML = navbar();
 
 let p = ``;
@@ -38,3 +38,19 @@ const display = (pr) =>{
 fetch("http://localhost:3000/trending")
     .then((res) => res.json())
     .then((data) => display(data))
+
+    fetch('http://localhost:3000/electronic','http://localhost:3000/kids-toy','http://localhost:3000/Home&kitchen','http://localhost:3000/mens','http://localhost:3000/womens')
+    .then((response) => response.json())
+    .then((data) => {
+      document.getElementById("search").addEventListener("keypress", () => {
+        let search = document.getElementById("search").value
+        let results = data.filter(product =>product.title.toLowerCase().includes(search.toLowerCase())
+        );
+        if (results.length == 0) {
+          document.getElementById("result").innerHTML = "prodcuts not found"
+        }
+        else {
+          display(results)
+        }
+      })
+    })
