@@ -75,6 +75,84 @@
         "rate": "3.8 Rating",
         "review": "465 Review"
       }
+    },
+    {
+      "id": 10,
+      "brand": "LookMark",
+      "title": "Men's Cotton Blend Stitched Solid Full Sleeve",
+      "price": "Rs. 329",
+      "description": "Your perfect pack for everyday use and walks in the forest. ",
+      "category": "men's shirt",
+      "image": "https://m.media-amazon.com/images/I/51wyX-zPEpL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": "3.4 Rating",
+        "review": "257 Review"
+      }
+    },
+    {
+      "id": 1,
+      "brand": "Uniquesky",
+      "title": "Satrani Women's Printed Poly Silk Saree with Unstitched Blouse Piece",
+      "price": "Rs. 245",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "saree's",
+      "image": "https://m.media-amazon.com/images/I/7143H+2QTgL._UY879_.jpg",
+      "rating": {
+        "rate": "3.9 Rating",
+        "review": "192 Review"
+      }
+    },
+    {
+      "id": 51,
+      "brand": "AG-jewells",
+      "title": "Clara Pure 925 Sterling Silver Minimal Finger Ring with Adjustable Band | Gift for Women Girls Wife Girlfriend | Multiple Design Options",
+      "price": "Rs. 1417",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "women-rings",
+      "image": "https://m.media-amazon.com/images/I/51IbQRPvtZL._UY625_.jpg",
+      "rating": {
+        "rate": "4.6 Rating",
+        "review": "534 Review"
+      }
+    },
+    {
+      "id": 16,
+      "brand": "Acnojs",
+      "title": " Premium Girl's Special Quality Different Heart Shape Bangle Analog Watch with Rose Gold Bracelet - Pack of 2",
+      "price": "Rs. 275",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "girls-Watches",
+      "image": "https://m.media-amazon.com/images/I/51vdKseJ+JL._UX569_.jpg",
+      "rating": {
+        "rate": "3.5 Rating",
+        "review": "460 Review"
+      }
+    },
+    {
+      "id": 32,
+      "brand": "AlphaToys",
+      "title": "Little Chef 2 in 1 Kitchen Set for Girls, Pretend Play Kitchen Kit for Kids with 4 Wheels",
+      "price": "Rs. 599",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "activity-sets",
+      "image": "https://n4.sdlcdn.com/imgs/k/n/k/TOY-KINGDOM-Little-Chef-2-SDL025863377-1-cce80.jpg",
+      "rating": {
+        "rate": "4.9 Rating",
+        "review": "162 Review"
+      }
+    },
+    {
+      "id": 40,
+      "brand": "AlphaToys",
+      "title": "Beauty Make up case and Cosmetic Set Suitcase with Makeup Accessories for Children Girls- Pink 2in1 Toy",
+      "price": "Rs. 599",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "activity-sets",
+      "image": "https://n2.sdlcdn.com/imgs/k/c/c/Beauty-Make-up-case-and-SDL737914010-1-b91d0.jpg",
+      "rating": {
+        "rate": "3.2 Rating",
+        "review": "150 Review"
+      }
     }
   ],
   "trending": [
@@ -171,19 +249,6 @@
     },
     {
       "id": 8,
-      "brand": "Peter England",
-      "title": "Peter England Men Shirt",
-      "price": "Rs. 1,067",
-      "description": "Your perfect pack for everyday use and walks in the forest. ",
-      "category": "men's shirt",
-      "image": "https://m.media-amazon.com/images/I/61b3r8qEtRL._UY879_.jpg",
-      "rating": {
-        "rate": "4.0 Rating",
-        "review": "128 Review"
-      }
-    },
-    {
-      "id": 9,
       "brand": "Anjali",
       "title": "Cookware Set without Induction ",
       "price": "Rs. 2999",
